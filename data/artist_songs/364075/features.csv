@@ -1,0 +1,425 @@
+id,name,credit,songid,song,labelid,label
+11285,Wolfgang Amadeus Mozart,2003404,1808281,Violin Concertos K. 216 & 218 / Sonata K. 305,1546,Sony Classical
+1120223,Ray Chen,2003404,1808281,Violin Concertos K. 216 & 218 / Sonata K. 305,1546,Sony Classical
+1217881,Schleswig-Holstein Festival Orchestra,2003404,1808281,Violin Concertos K. 216 & 218 / Sonata K. 305,1546,Sony Classical
+11285,Wolfgang Amadeus Mozart,1036662,1691586,3 Klaviersonaten,129303,Resonance
+11285,Wolfgang Amadeus Mozart,1036662,1691586,3 Klaviersonaten,743,Deutsche Grammophon
+9716,Richard Strauss,1056516,1141002,Four Last Songs / Songs with Orchestra / Rosenkavalier Suite,1864,RCA Red Seal
+9716,Richard Strauss,1056516,1141002,Four Last Songs / Songs with Orchestra / Rosenkavalier Suite,3562,RCA Victor Red Seal
+119255,Renée Fleming,1056516,1141002,Four Last Songs / Songs with Orchestra / Rosenkavalier Suite,1864,RCA Red Seal
+119255,Renée Fleming,1056516,1141002,Four Last Songs / Songs with Orchestra / Rosenkavalier Suite,3562,RCA Victor Red Seal
+208706,Houston Symphony,1056516,1141002,Four Last Songs / Songs with Orchestra / Rosenkavalier Suite,1864,RCA Red Seal
+208706,Houston Symphony,1056516,1141002,Four Last Songs / Songs with Orchestra / Rosenkavalier Suite,3562,RCA Victor Red Seal
+34491,Felix Mendelssohn,2409582,2151407,Cello Sonatas / Variations Concertantes / Lied ohne Worte,1156,Brilliant Classics
+1462827,Claude Starck,2409582,2151407,Cello Sonatas / Variations Concertantes / Lied ohne Worte,1156,Brilliant Classics
+2327,Johann Sebastian Bach,1096821,630326,"Klavierkonzerte: BWV 1060, 1061, 1063, 1065",-1,
+2327,Johann Sebastian Bach,1096821,630326,"Klavierkonzerte: BWV 1060, 1061, 1063, 1065",743,Deutsche Grammophon
+372480,Justus Frantz,1096821,630326,"Klavierkonzerte: BWV 1060, 1061, 1063, 1065",-1,
+372480,Justus Frantz,1096821,630326,"Klavierkonzerte: BWV 1060, 1061, 1063, 1065",743,Deutsche Grammophon
+429438,Gerhard Oppitz,1096821,630326,"Klavierkonzerte: BWV 1060, 1061, 1063, 1065",-1,
+429438,Gerhard Oppitz,1096821,630326,"Klavierkonzerte: BWV 1060, 1061, 1063, 1065",743,Deutsche Grammophon
+452843,Helmut Schmidt,1096821,630326,"Klavierkonzerte: BWV 1060, 1061, 1063, 1065",-1,
+452843,Helmut Schmidt,1096821,630326,"Klavierkonzerte: BWV 1060, 1061, 1063, 1065",743,Deutsche Grammophon
+452865,Philharmoniker Hamburg,1096821,630326,"Klavierkonzerte: BWV 1060, 1061, 1063, 1065",-1,
+452865,Philharmoniker Hamburg,1096821,630326,"Klavierkonzerte: BWV 1060, 1061, 1063, 1065",743,Deutsche Grammophon
+10729,Antonín Dvořák,1123341,1237574,Violin Concertos,24292,Apex
+32513,Robert Schumann,1123341,1237574,Violin Concertos,24292,Apex
+182199,Thomas Zehetmair,1123341,1237574,Violin Concertos,24292,Apex
+130808,Philharmonia Orchestra,1123341,1237574,Violin Concertos,24292,Apex
+429433,Eliahu Inbal,1123341,1237574,Violin Concertos,24292,Apex
+10293,Gustav Mahler,1242218,1321936,Symphony no. 5,86025,The Philadelphia Orchestra
+60490,The Philadelphia Orchestra,1242218,1321936,Symphony no. 5,86025,The Philadelphia Orchestra
+10293,Gustav Mahler,1243240,1322814,Symphony no. 6 / Piano Quartet,2369,Ondine
+10293,Gustav Mahler,1243240,1322814,Symphony no. 6 / Piano Quartet,2369,Ondine
+60490,The Philadelphia Orchestra,1243240,1322814,Symphony no. 6 / Piano Quartet,2369,Ondine
+60490,The Philadelphia Orchestra,1243240,1322814,Symphony no. 6 / Piano Quartet,2369,Ondine
+1060111,David Kim,1243240,1322814,Symphony no. 6 / Piano Quartet,2369,Ondine
+1060111,David Kim,1243240,1322814,Symphony no. 6 / Piano Quartet,2369,Ondine
+1063421,Choong-Jin Chang,1243240,1322814,Symphony no. 6 / Piano Quartet,2369,Ondine
+1063421,Choong-Jin Chang,1243240,1322814,Symphony no. 6 / Piano Quartet,2369,Ondine
+1063422,Efe Baltacıgil,1243240,1322814,Symphony no. 6 / Piano Quartet,2369,Ondine
+1063422,Efe Baltacıgil,1243240,1322814,Symphony no. 6 / Piano Quartet,2369,Ondine
+10289,Camille Saint‐Saëns,1395721,1247979,"Camille Saint-Saëns: Symphony no. 3 ""Organ"" / Francis Poulenc: Organ Concerto / Samuel Barber: Toccata Festiva",2369,Ondine
+30462,Francis Poulenc,1395721,1247979,"Camille Saint-Saëns: Symphony no. 3 ""Organ"" / Francis Poulenc: Organ Concerto / Samuel Barber: Toccata Festiva",2369,Ondine
+30461,Samuel Barber,1395721,1247979,"Camille Saint-Saëns: Symphony no. 3 ""Organ"" / Francis Poulenc: Organ Concerto / Samuel Barber: Toccata Festiva",2369,Ondine
+60490,The Philadelphia Orchestra,1395721,1247979,"Camille Saint-Saëns: Symphony no. 3 ""Organ"" / Francis Poulenc: Organ Concerto / Samuel Barber: Toccata Festiva",2369,Ondine
+415461,Olivier Latry,1395721,1247979,"Camille Saint-Saëns: Symphony no. 3 ""Organ"" / Francis Poulenc: Organ Concerto / Samuel Barber: Toccata Festiva",2369,Ondine
+10729,Antonín Dvořák,1295931,622147,"Dvořák: Symphony No. 9 ""From the New World"" / Tchaikovsky: Francesca da Rimini",4057,Virgin Classics
+122653,Пётр Ильич Чайковский,1295931,622147,"Dvořák: Symphony No. 9 ""From the New World"" / Tchaikovsky: Francesca da Rimini",4057,Virgin Classics
+208706,Houston Symphony,1295931,622147,"Dvořák: Symphony No. 9 ""From the New World"" / Tchaikovsky: Francesca da Rimini",4057,Virgin Classics
+12438,Franz Schubert,1312977,585877,Music for Piano Duet II,417,EMI Classics
+12438,Franz Schubert,1312977,585877,Music for Piano Duet II,417,EMI Classics
+372480,Justus Frantz,1312977,585877,Music for Piano Duet II,417,EMI Classics
+372480,Justus Frantz,1312977,585877,Music for Piano Duet II,417,EMI Classics
+11285,Wolfgang Amadeus Mozart,1411040,1476026,Piano Concertos 21 & 27,112892,Disky Classics
+11285,Wolfgang Amadeus Mozart,1411040,1476026,Piano Concertos 21 & 27,118939,Unesco Classics
+71102,London Philharmonic Orchestra,1411040,1476026,Piano Concertos 21 & 27,112892,Disky Classics
+71102,London Philharmonic Orchestra,1411040,1476026,Piano Concertos 21 & 27,118939,Unesco Classics
+122653,Пётр Ильич Чайковский,1363555,988798,Tchaikovsky: Romeo and Juliet / String Serenade / Francesca da Rimini / Ewald: Brass Quintets nos. 1 & 3,2369,Ondine
+620971,Виктор Владимирович Эвальд,1363555,988798,Tchaikovsky: Romeo and Juliet / String Serenade / Francesca da Rimini / Ewald: Brass Quintets nos. 1 & 3,2369,Ondine
+60490,The Philadelphia Orchestra,1363555,988798,Tchaikovsky: Romeo and Juliet / String Serenade / Francesca da Rimini / Ewald: Brass Quintets nos. 1 & 3,2369,Ondine
+10371,Olivier Messiaen,1494656,1538010,Des canyons aux étoiles,63722,LPO
+10371,Olivier Messiaen,1494656,1538010,Des canyons aux étoiles,63722,LPO
+71102,London Philharmonic Orchestra,1494656,1538010,Des canyons aux étoiles,63722,LPO
+71102,London Philharmonic Orchestra,1494656,1538010,Des canyons aux étoiles,63722,LPO
+1021,Ludwig van Beethoven,1423285,1259770,Piano Concertos nos. 1 & 4,743,Deutsche Grammophon
+1021,Ludwig van Beethoven,1423285,1259770,Piano Concertos nos. 1 & 4,743,Deutsche Grammophon
+1021,Ludwig van Beethoven,1423285,1259770,Piano Concertos nos. 1 & 4,743,Deutsche Grammophon
+303196,Lang Lang,1423285,1259770,Piano Concertos nos. 1 & 4,743,Deutsche Grammophon
+303196,Lang Lang,1423285,1259770,Piano Concertos nos. 1 & 4,743,Deutsche Grammophon
+303196,Lang Lang,1423285,1259770,Piano Concertos nos. 1 & 4,743,Deutsche Grammophon
+353215,Orchestre de Paris,1423285,1259770,Piano Concertos nos. 1 & 4,743,Deutsche Grammophon
+353215,Orchestre de Paris,1423285,1259770,Piano Concertos nos. 1 & 4,743,Deutsche Grammophon
+353215,Orchestre de Paris,1423285,1259770,Piano Concertos nos. 1 & 4,743,Deutsche Grammophon
+12181,Johannes Brahms,1446054,974834,"Brahms: Violin Concerto / Schumann: Fantasy for Violin, op. 131",376,TELDEC
+32513,Robert Schumann,1446054,974834,"Brahms: Violin Concerto / Schumann: Fantasy for Violin, op. 131",376,TELDEC
+32266,The Cleveland Orchestra,1446054,974834,"Brahms: Violin Concerto / Schumann: Fantasy for Violin, op. 131",376,TELDEC
+296825,Christoph von Dohnányi,1446054,974834,"Brahms: Violin Concerto / Schumann: Fantasy for Violin, op. 131",376,TELDEC
+130808,Philharmonia Orchestra,1446054,974834,"Brahms: Violin Concerto / Schumann: Fantasy for Violin, op. 131",376,TELDEC
+182199,Thomas Zehetmair,1446054,974834,"Brahms: Violin Concerto / Schumann: Fantasy for Violin, op. 131",376,TELDEC
+45037,Franz Liszt,1453858,1509209,"Liszt, Brahms, Lutosławski: Paganini Variations / Rachmaninov: Paganini Rhapsody",2369,Ondine
+12181,Johannes Brahms,1453858,1509209,"Liszt, Brahms, Lutosławski: Paganini Variations / Rachmaninov: Paganini Rhapsody",2369,Ondine
+54733,Witold Lutosławski,1453858,1509209,"Liszt, Brahms, Lutosławski: Paganini Variations / Rachmaninov: Paganini Rhapsody",2369,Ondine
+33725,Сергей Васильевич Рахманинов,1453858,1509209,"Liszt, Brahms, Lutosławski: Paganini Variations / Rachmaninov: Paganini Rhapsody",2369,Ondine
+128205,Tzimon Barto,1453858,1509209,"Liszt, Brahms, Lutosławski: Paganini Variations / Rachmaninov: Paganini Rhapsody",2369,Ondine
+1217881,Schleswig-Holstein Festival Orchestra,1453858,1509209,"Liszt, Brahms, Lutosławski: Paganini Variations / Rachmaninov: Paganini Rhapsody",2369,Ondine
+10371,Olivier Messiaen,1454309,58682,Quartet for the End of Time,4820,KOCH International Classics
+1218167,Houston Symphony Chamber Players,1454309,58682,Quartet for the End of Time,4820,KOCH International Classics
+10093,Дмитрий Дмитриевич Шостакович,1466591,622142,Symphony no. 5,-1,
+208706,Houston Symphony,1466591,622142,Symphony no. 5,-1,
+60393,Kaija Saariaho,1467497,801708,Notes on Light / Orion / Mirage,2369,Ondine
+36509,Karita Mattila,1467497,801708,Notes on Light / Orion / Mirage,2369,Ondine
+506147,Anssi Karttunen,1467497,801708,Notes on Light / Orion / Mirage,2369,Ondine
+353215,Orchestre de Paris,1467497,801708,Notes on Light / Orion / Mirage,2369,Ondine
+83,Fryderyk Chopin,1533011,1565275,The Best Of Chopin,743,Deutsche Grammophon
+315194,Tamás Vásáry,1533011,1565275,The Best Of Chopin,743,Deutsche Grammophon
+641098,Stefan Askenase,1533011,1565275,The Best Of Chopin,743,Deutsche Grammophon
+93299,Lazar Berman,1533011,1565275,The Best Of Chopin,743,Deutsche Grammophon
+47881,Paul Hindemith,1539745,1569277,"Violinkonzert / Symphonic Metamorphosis / Konzertmusik, op. 50",2369,Ondine
+495857,NDR Elbphilharmonie Orchester,1539745,1569277,"Violinkonzert / Symphonic Metamorphosis / Konzertmusik, op. 50",2369,Ondine
+516087,Midori,1539745,1569277,"Violinkonzert / Symphonic Metamorphosis / Konzertmusik, op. 50",2369,Ondine
+11285,Wolfgang Amadeus Mozart,1561184,1501360,Music for Piano Duet,743,Deutsche Grammophon
+11285,Wolfgang Amadeus Mozart,1561184,1501360,Music for Piano Duet,129303,Resonance
+372480,Justus Frantz,1561184,1501360,Music for Piano Duet,743,Deutsche Grammophon
+372480,Justus Frantz,1561184,1501360,Music for Piano Duet,129303,Resonance
+32736,Edward Elgar,1567175,877986,Viola Concertos,2369,Ondine
+168796,Альфред Гарриевич Шнитке,1567175,877986,Viola Concertos,2369,Ondine
+130808,Philharmonia Orchestra,1567175,877986,Viola Concertos,2369,Ondine
+647096,David Aaron Carpenter,1567175,877986,Viola Concertos,2369,Ondine
+168796,Альфред Гарриевич Шнитке,1568328,380168,Complete Violin Concertos,4875,TELDEC
+168796,Альфред Гарриевич Шнитке,1568328,380168,Complete Violin Concertos,4875,TELDEC
+168796,Альфред Гарриевич Шнитке,1568328,380168,Complete Violin Concertos,376,TELDEC
+9396,Gidon Kremer,1568328,380168,Complete Violin Concertos,4875,TELDEC
+9396,Gidon Kremer,1568328,380168,Complete Violin Concertos,4875,TELDEC
+9396,Gidon Kremer,1568328,380168,Complete Violin Concertos,376,TELDEC
+10293,Gustav Mahler,1570971,1061207,"Symphony no. 2 ""Resurrection""",2369,Ondine
+60490,The Philadelphia Orchestra,1570971,1061207,"Symphony no. 2 ""Resurrection""",2369,Ondine
+122642,The Philadelphia Singers,1570971,1061207,"Symphony no. 2 ""Resurrection""",2369,Ondine
+114531,Christopher Rouse,1589784,1606421,Symphony no. 2 / Flute Concerto / Phaeton,38982,Telarc Digital
+208706,Houston Symphony,1589784,1606421,Symphony no. 2 / Flute Concerto / Phaeton,38982,Telarc Digital
+739993,Carol Wincenc,1589784,1606421,Symphony no. 2 / Flute Concerto / Phaeton,38982,Telarc Digital
+11285,Wolfgang Amadeus Mozart,1605210,1237709,The Piano Sonatas,743,Deutsche Grammophon
+277669,Alexander von Zemlinsky,1632415,1133384,"Lyrische Symphonie, op. 18",7360,Capriccio
+277669,Alexander von Zemlinsky,1632415,1133384,"Lyrische Symphonie, op. 18",7360,Capriccio
+490313,Matthias Goerne,1632415,1133384,"Lyrische Symphonie, op. 18",7360,Capriccio
+490313,Matthias Goerne,1632415,1133384,"Lyrische Symphonie, op. 18",7360,Capriccio
+420383,Christine Schäfer,1632415,1133384,"Lyrische Symphonie, op. 18",7360,Capriccio
+420383,Christine Schäfer,1632415,1133384,"Lyrische Symphonie, op. 18",7360,Capriccio
+353215,Orchestre de Paris,1632415,1133384,"Lyrische Symphonie, op. 18",7360,Capriccio
+353215,Orchestre de Paris,1632415,1133384,"Lyrische Symphonie, op. 18",7360,Capriccio
+12438,Franz Schubert,1669409,1666338,Winterreise,377,Harmonia Mundi
+12438,Franz Schubert,1669409,2316808,Schwanengesang,377,Harmonia Mundi
+490313,Matthias Goerne,1669409,1666338,Winterreise,377,Harmonia Mundi
+490313,Matthias Goerne,1669409,2316808,Schwanengesang,377,Harmonia Mundi
+10289,Camille Saint‐Saëns,2967773,2544064,Cello Concerto No. 2 / Cello Sonata No. 2,1864,RCA Red Seal
+175588,Steven Isserlis,2967773,2544064,Cello Concerto No. 2 / Cello Sonata No. 2,1864,RCA Red Seal
+249658,Joshua Bell,2967773,2544064,Cello Concerto No. 2 / Cello Sonata No. 2,1864,RCA Red Seal
+404496,Pascal Devoyon,2967773,2544064,Cello Concerto No. 2 / Cello Sonata No. 2,1864,RCA Red Seal
+495857,NDR Elbphilharmonie Orchester,2967773,2544064,Cello Concerto No. 2 / Cello Sonata No. 2,1864,RCA Red Seal
+47881,Paul Hindemith,2967779,2599363,"Symphonie ""Mathis der Maler"" / Symphonie in Es",2369,Ondine
+495857,NDR Elbphilharmonie Orchester,2967779,2599363,"Symphonie ""Mathis der Maler"" / Symphonie in Es",2369,Ondine
+51506,John Adams,1726450,86724,Violin Concertos,38982,Telarc Digital
+9193,Philip Glass,1726450,86724,Violin Concertos,38982,Telarc Digital
+208706,Houston Symphony,1726450,86724,Violin Concertos,38982,Telarc Digital
+247553,Robert McDuffie,1726450,86724,Violin Concertos,38982,Telarc Digital
+23395,Игорь Фёдорович Стравинский,2041098,1835755,Stravinsky: Firebird / Messiaen: L'Ascension / Koehne: Rain Forest / Ravel: La Valse,7405,ABC Classics
+10371,Olivier Messiaen,2041098,1835755,Stravinsky: Firebird / Messiaen: L'Ascension / Koehne: Rain Forest / Ravel: La Valse,7405,ABC Classics
+742254,Graeme Koehne,2041098,1835755,Stravinsky: Firebird / Messiaen: L'Ascension / Koehne: Rain Forest / Ravel: La Valse,7405,ABC Classics
+10211,Maurice Ravel,2041098,1835755,Stravinsky: Firebird / Messiaen: L'Ascension / Koehne: Rain Forest / Ravel: La Valse,7405,ABC Classics
+755021,Australian Youth Orchestra,2041098,1835755,Stravinsky: Firebird / Messiaen: L'Ascension / Koehne: Rain Forest / Ravel: La Valse,7405,ABC Classics
+381060,Tobias Picker,1819178,1111357,The Encantadas / Old and Lost Rivers / Romances and Interludes,4057,Virgin Classics
+69935,Sir John Gielgud,1819178,1111357,The Encantadas / Old and Lost Rivers / Romances and Interludes,4057,Virgin Classics
+208706,Houston Symphony,1819178,1111357,The Encantadas / Old and Lost Rivers / Romances and Interludes,4057,Virgin Classics
+133070,Arnold Schönberg,2020569,16825,Schoenberg: Pelleas und Melisande / Webern: Passacaglia,4820,KOCH International Classics
+48153,Anton Webern,2020569,16825,Schoenberg: Pelleas und Melisande / Webern: Passacaglia,4820,KOCH International Classics
+208706,Houston Symphony,2020569,16825,Schoenberg: Pelleas und Melisande / Webern: Passacaglia,4820,KOCH International Classics
+12181,Johannes Brahms,1836858,1744183,Vier ernste Gesänge,377,Harmonia Mundi
+490313,Matthias Goerne,1836858,1744183,Vier ernste Gesänge,377,Harmonia Mundi
+32513,Robert Schumann,1852425,1051786,Cello Concertos,1522,Orfeo
+9716,Richard Strauss,1852425,1051786,Cello Concertos,1522,Orfeo
+441194,Robert Volkmann,1852425,1051786,Cello Concertos,1522,Orfeo
+41124,Max Bruch,1852425,1051786,Cello Concertos,1522,Orfeo
+588965,Daniel Müller‐Schott,1852425,1051786,Cello Concertos,1522,Orfeo
+495857,NDR Elbphilharmonie Orchester,1852425,1051786,Cello Concertos,1522,Orfeo
+32513,Robert Schumann,1872721,686316,Dichterliebe / Liederkreis / Myrten,743,Deutsche Grammophon
+271261,Dietrich Fischer‐Dieskau,1872721,686316,Dichterliebe / Liederkreis / Myrten,743,Deutsche Grammophon
+10289,Camille Saint‐Saëns,1873694,1188843,Concert 1993,32882,Hänssler Classic
+9414,George Gershwin,1873694,1188843,Concert 1993,32882,Hänssler Classic
+125552,Святослав Теофилович Рихтер,1873694,1188843,Concert 1993,32882,Hänssler Classic
+413793,Radio‐Sinfonieorchester Stuttgart des SWR,1873694,1188843,Concert 1993,32882,Hänssler Classic
+10289,Camille Saint‐Saëns,1873782,1002622,Cello Concertos Nos. 1 & 2 / La Muse et le Poète / Suite,1864,RCA Red Seal
+175588,Steven Isserlis,1873782,1002622,Cello Concertos Nos. 1 & 2 / La Muse et le Poète / Suite,1864,RCA Red Seal
+12299,London Symphony Orchestra,1873782,1002622,Cello Concertos Nos. 1 & 2 / La Muse et le Poète / Suite,1864,RCA Red Seal
+24241,Michael Tilson Thomas,1873782,1002622,Cello Concertos Nos. 1 & 2 / La Muse et le Poète / Suite,1864,RCA Red Seal
+495857,NDR Elbphilharmonie Orchester,1873782,1002622,Cello Concertos Nos. 1 & 2 / La Muse et le Poète / Suite,1864,RCA Red Seal
+32513,Robert Schumann,1883900,647705,Lieder,743,Deutsche Grammophon
+271261,Dietrich Fischer‐Dieskau,1883900,647705,Lieder,743,Deutsche Grammophon
+355592,Jörg Demus,1883900,647705,Lieder,743,Deutsche Grammophon
+364074,Marc-André Dalbavie,1891104,521504,Color,1724,naïve
+353215,Orchestre de Paris,1891104,521504,Color,1724,naïve
+1021,Ludwig van Beethoven,1895264,901037,Klavierkonzert / Tripelkonzert,743,Deutsche Grammophon
+241528,Anne‐Sophie Mutter,1895264,901037,Klavierkonzert / Tripelkonzert,743,Deutsche Grammophon
+10851,Yo‐Yo Ma,1895264,901037,Klavierkonzert / Tripelkonzert,743,Deutsche Grammophon
+655847,Mark Zeltser,1895264,901037,Klavierkonzert / Tripelkonzert,743,Deutsche Grammophon
+64981,Berliner Philharmoniker,1895264,901037,Klavierkonzert / Tripelkonzert,743,Deutsche Grammophon
+10239,Herbert von Karajan,1895264,901037,Klavierkonzert / Tripelkonzert,743,Deutsche Grammophon
+32513,Robert Schumann,1923210,1762573,Frauenliebe und Leben / Dichterliebe / 10 Lieder,743,Deutsche Grammophon
+32513,Robert Schumann,1923210,1762573,Frauenliebe und Leben / Dichterliebe / 10 Lieder,743,Deutsche Grammophon
+271261,Dietrich Fischer‐Dieskau,1923210,1762573,Frauenliebe und Leben / Dichterliebe / 10 Lieder,743,Deutsche Grammophon
+271261,Dietrich Fischer‐Dieskau,1923210,1762573,Frauenliebe und Leben / Dichterliebe / 10 Lieder,743,Deutsche Grammophon
+275338,Brigitte Fassbaender,1923210,1762573,Frauenliebe und Leben / Dichterliebe / 10 Lieder,743,Deutsche Grammophon
+275338,Brigitte Fassbaender,1923210,1762573,Frauenliebe und Leben / Dichterliebe / 10 Lieder,743,Deutsche Grammophon
+503066,Irwin Gage,1923210,1762573,Frauenliebe und Leben / Dichterliebe / 10 Lieder,743,Deutsche Grammophon
+503066,Irwin Gage,1923210,1762573,Frauenliebe und Leben / Dichterliebe / 10 Lieder,743,Deutsche Grammophon
+32513,Robert Schumann,2138374,1012107,Introduction and Allegro Appassionato / Geistervariationen / Introduction and Concert-Allegro / Six Etudes in Canonic Form,2369,Ondine
+495857,NDR Elbphilharmonie Orchester,2138374,1012107,Introduction and Allegro Appassionato / Geistervariationen / Introduction and Concert-Allegro / Six Etudes in Canonic Form,2369,Ondine
+128205,Tzimon Barto,2138374,1012107,Introduction and Allegro Appassionato / Geistervariationen / Introduction and Concert-Allegro / Six Etudes in Canonic Form,2369,Ondine
+11285,Wolfgang Amadeus Mozart,1981998,1792044,"Sinfonia Concertante in E-flat major / Concerto for Violin, Piano and Orchestra in D major",1546,Sony Classical
+516087,Midori,1981998,1792044,"Sinfonia Concertante in E-flat major / Concerto for Violin, Piano and Orchestra in D major",1546,Sony Classical
+463982,今井信子,1981998,1792044,"Sinfonia Concertante in E-flat major / Concerto for Violin, Piano and Orchestra in D major",1546,Sony Classical
+495857,NDR Elbphilharmonie Orchester,1981998,1792044,"Sinfonia Concertante in E-flat major / Concerto for Violin, Piano and Orchestra in D major",1546,Sony Classical
+10293,Gustav Mahler,2080732,1813383,Symphonie no. 1 / Rückert-Lieder,7360,Capriccio
+420383,Christine Schäfer,2080732,1813383,Symphonie no. 1 / Rückert-Lieder,7360,Capriccio
+444586,Deutsches Symphonie‐Orchester Berlin,2080732,1813383,Symphonie no. 1 / Rückert-Lieder,7360,Capriccio
+10293,Gustav Mahler,2082129,686984,Symphony No. 5 in C-sharp minor,-1,
+208706,Houston Symphony,2082129,686984,Symphony No. 5 in C-sharp minor,-1,
+47881,Paul Hindemith,2122338,1895859,Hindemith: Klaviermusik mit Orchester (for piano left hand) / Dvořák: Symphony no. 9 “From the New World”,2369,Ondine
+10729,Antonín Dvořák,2122338,1895859,Hindemith: Klaviermusik mit Orchester (for piano left hand) / Dvořák: Symphony no. 9 “From the New World”,2369,Ondine
+369233,Leon Fleisher,2122338,1895859,Hindemith: Klaviermusik mit Orchester (for piano left hand) / Dvořák: Symphony no. 9 “From the New World”,2369,Ondine
+1088347,Symphony Orchestra of the Curtis Institute,2122338,1895859,Hindemith: Klaviermusik mit Orchester (for piano left hand) / Dvořák: Symphony no. 9 “From the New World”,2369,Ondine
+424940,Anda Géza,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,743,Deutsche Grammophon
+424940,Anda Géza,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,743,Deutsche Grammophon
+424940,Anda Géza,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,75400,Deutsche Grammophon Musikfest
+424940,Anda Géza,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,31054,Deutsche Grammophon Favorit
+424940,Anda Géza,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,743,Deutsche Grammophon
+424940,Anda Géza,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,743,Deutsche Grammophon
+424940,Anda Géza,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,743,Deutsche Grammophon
+251289,Martha Argerich,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,743,Deutsche Grammophon
+251289,Martha Argerich,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,743,Deutsche Grammophon
+251289,Martha Argerich,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,75400,Deutsche Grammophon Musikfest
+251289,Martha Argerich,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,31054,Deutsche Grammophon Favorit
+251289,Martha Argerich,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,743,Deutsche Grammophon
+251289,Martha Argerich,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,743,Deutsche Grammophon
+251289,Martha Argerich,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,743,Deutsche Grammophon
+641098,Stefan Askenase,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,743,Deutsche Grammophon
+641098,Stefan Askenase,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,743,Deutsche Grammophon
+641098,Stefan Askenase,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,75400,Deutsche Grammophon Musikfest
+641098,Stefan Askenase,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,31054,Deutsche Grammophon Favorit
+641098,Stefan Askenase,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,743,Deutsche Grammophon
+641098,Stefan Askenase,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,743,Deutsche Grammophon
+641098,Stefan Askenase,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,743,Deutsche Grammophon
+41660,Wilhelm Kempff,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,743,Deutsche Grammophon
+41660,Wilhelm Kempff,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,743,Deutsche Grammophon
+41660,Wilhelm Kempff,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,75400,Deutsche Grammophon Musikfest
+41660,Wilhelm Kempff,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,31054,Deutsche Grammophon Favorit
+41660,Wilhelm Kempff,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,743,Deutsche Grammophon
+41660,Wilhelm Kempff,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,743,Deutsche Grammophon
+41660,Wilhelm Kempff,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,743,Deutsche Grammophon
+315194,Tamás Vásáry,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,743,Deutsche Grammophon
+315194,Tamás Vásáry,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,743,Deutsche Grammophon
+315194,Tamás Vásáry,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,75400,Deutsche Grammophon Musikfest
+315194,Tamás Vásáry,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,31054,Deutsche Grammophon Favorit
+315194,Tamás Vásáry,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,743,Deutsche Grammophon
+315194,Tamás Vásáry,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,743,Deutsche Grammophon
+315194,Tamás Vásáry,2166082,868977,Träumerei: Die schönsten romantischen Klavierstücke,743,Deutsche Grammophon
+11285,Wolfgang Amadeus Mozart,2170445,1934214,The Concertos for Two & Three Pianos,973,EMI Digital
+372480,Justus Frantz,2170445,1934214,The Concertos for Two & Three Pianos,973,EMI Digital
+452843,Helmut Schmidt,2170445,1934214,The Concertos for Two & Three Pianos,973,EMI Digital
+71102,London Philharmonic Orchestra,2170445,1934214,The Concertos for Two & Three Pianos,973,EMI Digital
+32513,Robert Schumann,2171436,1843003,Streichquartett A-dur / Klavierquintett Es-dur,743,Deutsche Grammophon
+503173,Drolc-Quartett,2171436,1843003,Streichquartett A-dur / Klavierquintett Es-dur,743,Deutsche Grammophon
+16210,Anton Bruckner,2206571,167930,Symphony No. 2 in C minor,-1,
+208706,Houston Symphony,2206571,167930,Symphony No. 2 in C minor,-1,
+122653,Пётр Ильич Чайковский,2243934,1253838,"Symphony no. 6 ""Pathétique"" / Dumka",2369,Ondine
+60490,The Philadelphia Orchestra,2243934,1253838,"Symphony no. 6 ""Pathétique"" / Dumka",2369,Ondine
+122653,Пётр Ильич Чайковский,2244234,1128775,Symphony no. 5 / The Seasons (January - June),2369,Ondine
+60490,The Philadelphia Orchestra,2244234,1128775,Symphony no. 5 / The Seasons (January - June),2369,Ondine
+12438,Franz Schubert,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,743,Deutsche Grammophon
+12438,Franz Schubert,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,75400,Deutsche Grammophon Musikfest
+12438,Franz Schubert,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,743,Deutsche Grammophon
+12438,Franz Schubert,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,66963,Deutsche Grammophon Resonance
+12438,Franz Schubert,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,743,Deutsche Grammophon
+12438,Franz Schubert,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,743,Deutsche Grammophon
+12438,Franz Schubert,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,743,Deutsche Grammophon
+12438,Franz Schubert,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,743,Deutsche Grammophon
+12438,Franz Schubert,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,80832,Deutsche Grammophon Privilege
+12438,Franz Schubert,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,743,Deutsche Grammophon
+12438,Franz Schubert,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,743,Deutsche Grammophon
+857471,Koeckert-Quartett,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,743,Deutsche Grammophon
+857471,Koeckert-Quartett,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,75400,Deutsche Grammophon Musikfest
+857471,Koeckert-Quartett,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,743,Deutsche Grammophon
+857471,Koeckert-Quartett,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,66963,Deutsche Grammophon Resonance
+857471,Koeckert-Quartett,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,743,Deutsche Grammophon
+857471,Koeckert-Quartett,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,743,Deutsche Grammophon
+857471,Koeckert-Quartett,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,743,Deutsche Grammophon
+857471,Koeckert-Quartett,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,743,Deutsche Grammophon
+857471,Koeckert-Quartett,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,80832,Deutsche Grammophon Privilege
+857471,Koeckert-Quartett,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,743,Deutsche Grammophon
+857471,Koeckert-Quartett,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,743,Deutsche Grammophon
+402519,Amadeus Quartet,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,743,Deutsche Grammophon
+402519,Amadeus Quartet,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,75400,Deutsche Grammophon Musikfest
+402519,Amadeus Quartet,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,743,Deutsche Grammophon
+402519,Amadeus Quartet,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,66963,Deutsche Grammophon Resonance
+402519,Amadeus Quartet,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,743,Deutsche Grammophon
+402519,Amadeus Quartet,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,743,Deutsche Grammophon
+402519,Amadeus Quartet,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,743,Deutsche Grammophon
+402519,Amadeus Quartet,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,743,Deutsche Grammophon
+402519,Amadeus Quartet,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,80832,Deutsche Grammophon Privilege
+402519,Amadeus Quartet,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,743,Deutsche Grammophon
+402519,Amadeus Quartet,2280356,558819,Forellen‐Quintett / Der Tod und das Mädchen,743,Deutsche Grammophon
+238351,Wiener Philharmoniker,2292937,1998842,Sommernachtskonzert 2014 / Summer Night Concert 2014,1546,Sony Classical
+303196,Lang Lang,2292937,1998842,Sommernachtskonzert 2014 / Summer Night Concert 2014,1546,Sony Classical
+12181,Johannes Brahms,2297534,2048175,Piano Quintet Op. 34 / String Sextet Op. 18,743,Deutsche Grammophon
+12181,Johannes Brahms,2297534,2048175,Piano Quintet Op. 34 / String Sextet Op. 18,743,Deutsche Grammophon
+402519,Amadeus Quartet,2297534,2048175,Piano Quintet Op. 34 / String Sextet Op. 18,743,Deutsche Grammophon
+402519,Amadeus Quartet,2297534,2048175,Piano Quintet Op. 34 / String Sextet Op. 18,743,Deutsche Grammophon
+500458,Cecil Aronowitz,2297534,2048175,Piano Quintet Op. 34 / String Sextet Op. 18,743,Deutsche Grammophon
+500458,Cecil Aronowitz,2297534,2048175,Piano Quintet Op. 34 / String Sextet Op. 18,743,Deutsche Grammophon
+489948,William Pleeth,2297534,2048175,Piano Quintet Op. 34 / String Sextet Op. 18,743,Deutsche Grammophon
+489948,William Pleeth,2297534,2048175,Piano Quintet Op. 34 / String Sextet Op. 18,743,Deutsche Grammophon
+11285,Wolfgang Amadeus Mozart,2310032,2056971,Conciertos para piano nº 21 y 27 / Sonatas para piano,743,Deutsche Grammophon
+11285,Wolfgang Amadeus Mozart,2310032,2056971,Conciertos para piano nº 21 y 27 / Sonatas para piano,743,Deutsche Grammophon
+11285,Wolfgang Amadeus Mozart,2310032,2056971,Conciertos para piano nº 21 y 27 / Sonatas para piano,743,Deutsche Grammophon
+11285,Wolfgang Amadeus Mozart,2310032,2056971,Conciertos para piano nº 21 y 27 / Sonatas para piano,743,Deutsche Grammophon
+250214,Rudolf Serkin,2310032,2056971,Conciertos para piano nº 21 y 27 / Sonatas para piano,743,Deutsche Grammophon
+250214,Rudolf Serkin,2310032,2056971,Conciertos para piano nº 21 y 27 / Sonatas para piano,743,Deutsche Grammophon
+250214,Rudolf Serkin,2310032,2056971,Conciertos para piano nº 21 y 27 / Sonatas para piano,743,Deutsche Grammophon
+250214,Rudolf Serkin,2310032,2056971,Conciertos para piano nº 21 y 27 / Sonatas para piano,743,Deutsche Grammophon
+12299,London Symphony Orchestra,2310032,2056971,Conciertos para piano nº 21 y 27 / Sonatas para piano,743,Deutsche Grammophon
+12299,London Symphony Orchestra,2310032,2056971,Conciertos para piano nº 21 y 27 / Sonatas para piano,743,Deutsche Grammophon
+12299,London Symphony Orchestra,2310032,2056971,Conciertos para piano nº 21 y 27 / Sonatas para piano,743,Deutsche Grammophon
+12299,London Symphony Orchestra,2310032,2056971,Conciertos para piano nº 21 y 27 / Sonatas para piano,743,Deutsche Grammophon
+238352,Claudio Abbado,2310032,2056971,Conciertos para piano nº 21 y 27 / Sonatas para piano,743,Deutsche Grammophon
+238352,Claudio Abbado,2310032,2056971,Conciertos para piano nº 21 y 27 / Sonatas para piano,743,Deutsche Grammophon
+238352,Claudio Abbado,2310032,2056971,Conciertos para piano nº 21 y 27 / Sonatas para piano,743,Deutsche Grammophon
+238352,Claudio Abbado,2310032,2056971,Conciertos para piano nº 21 y 27 / Sonatas para piano,743,Deutsche Grammophon
+83,Fryderyk Chopin,2336478,2083910,Préludes,743,Deutsche Grammophon
+10293,Gustav Mahler,2437149,2175749,"2009-09-16: Salle Pleyel, Paris, France",-1,
+902902,Chœur de l'Orchestre de Paris,2437149,2175749,"2009-09-16: Salle Pleyel, Paris, France",-1,
+353215,Orchestre de Paris,2437149,2175749,"2009-09-16: Salle Pleyel, Paris, France",-1,
+444587,La Maîtrise de Paris,2437149,2175749,"2009-09-16: Salle Pleyel, Paris, France",-1,
+444107,Mihoko Fujimura,2437149,2175749,"2009-09-16: Salle Pleyel, Paris, France",-1,
+364074,Marc-André Dalbavie,2440387,2178509,"2008-05-08 through 13: Verizon Hall, Philadelphia, PA, USA",-1,
+419311,Thierry Escaich,2440387,2178509,"2008-05-08 through 13: Verizon Hall, Philadelphia, PA, USA",-1,
+11697,Сергей Сергеевич Прокофьев,2440387,2178509,"2008-05-08 through 13: Verizon Hall, Philadelphia, PA, USA",-1,
+60490,The Philadelphia Orchestra,2440387,2178509,"2008-05-08 through 13: Verizon Hall, Philadelphia, PA, USA",-1,
+419311,Thierry Escaich,2440387,2178509,"2008-05-08 through 13: Verizon Hall, Philadelphia, PA, USA",-1,
+11697,Сергей Сергеевич Прокофьев,2529316,2251537,Cello Sonata / Sinfonia Concertante,377,Harmonia Mundi
+1454246,Bruno Philippe,2529316,2251537,Cello Sonata / Sinfonia Concertante,377,Harmonia Mundi
+1569024,Tanguy de Williencourt,2529316,2251537,Cello Sonata / Sinfonia Concertante,377,Harmonia Mundi
+371152,hr‐Sinfonieorchester,2529316,2251537,Cello Sonata / Sinfonia Concertante,377,Harmonia Mundi
+168796,Альфред Гарриевич Шнитке,2393226,2134067,Violin Concertos nos. 2 & 3 / Stille Nacht / Gratulationsrondo,376,TELDEC
+9396,Gidon Kremer,2393226,2134067,Violin Concertos nos. 2 & 3 / Stille Nacht / Gratulationsrondo,376,TELDEC
+132486,Chamber Orchestra of Europe,2393226,2134067,Violin Concertos nos. 2 & 3 / Stille Nacht / Gratulationsrondo,376,TELDEC
+108335,Albert Roussel,2971382,2652051,Symphony no. 2 / Bacchus et Ariane,2369,Ondine
+108335,Albert Roussel,2971382,2665152,Symphony no. 3 / Le Festin de l'araignée,2369,Ondine
+108335,Albert Roussel,2971382,2665144,"Symphony no. 1 ""Le Poème de la forêt"" / Symphony no. 4",2369,Ondine
+353215,Orchestre de Paris,2971382,2652051,Symphony no. 2 / Bacchus et Ariane,2369,Ondine
+353215,Orchestre de Paris,2971382,2665152,Symphony no. 3 / Le Festin de l'araignée,2369,Ondine
+353215,Orchestre de Paris,2971382,2665144,"Symphony no. 1 ""Le Poème de la forêt"" / Symphony no. 4",2369,Ondine
+16210,Anton Bruckner,2610562,915615,Symphony no. 4 “Romantic”,2369,Ondine
+353215,Orchestre de Paris,2610562,915615,Symphony no. 4 “Romantic”,2369,Ondine
+9716,Richard Strauss,2614170,943578,Strauss Heroines,764,Decca Records
+238351,Wiener Philharmoniker,2614170,943578,Strauss Heroines,764,Decca Records
+119255,Renée Fleming,2614170,943578,Strauss Heroines,764,Decca Records
+69963,Barbara Bonney,2614170,943578,Strauss Heroines,764,Decca Records
+561421,Susan Graham,2614170,943578,Strauss Heroines,764,Decca Records
+935370,Édith Canat de Chizy,2729493,2406757,Les rayons du jour,134127,Disques du Solstice
+353215,Orchestre de Paris,2729493,2406757,Les rayons du jour,134127,Disques du Solstice
+11285,Wolfgang Amadeus Mozart,2748978,194530,The Music for Piano Duet,743,Deutsche Grammophon
+11285,Wolfgang Amadeus Mozart,2748978,194530,The Music for Piano Duet,743,Deutsche Grammophon
+11285,Wolfgang Amadeus Mozart,2748978,2297375,Four Hand Piano Music,743,Deutsche Grammophon
+372480,Justus Frantz,2748978,194530,The Music for Piano Duet,743,Deutsche Grammophon
+372480,Justus Frantz,2748978,194530,The Music for Piano Duet,743,Deutsche Grammophon
+372480,Justus Frantz,2748978,2297375,Four Hand Piano Music,743,Deutsche Grammophon
+32513,Robert Schumann,2733607,2318803,Violin Concerto in D minor / Fantasie Op. 131,115619,TELDEC Classics International GmbH
+182199,Thomas Zehetmair,2733607,2318803,Violin Concerto in D minor / Fantasie Op. 131,115619,TELDEC Classics International GmbH
+130808,Philharmonia Orchestra,2733607,2318803,Violin Concerto in D minor / Fantasie Op. 131,115619,TELDEC Classics International GmbH
+32513,Robert Schumann,2754870,2430078,The Complete Schumann Symphonies,1864,RCA Red Seal
+32513,Robert Schumann,2754870,2430078,The Complete Schumann Symphonies,1864,RCA Red Seal
+495857,NDR Elbphilharmonie Orchester,2754870,2430078,The Complete Schumann Symphonies,1864,RCA Red Seal
+495857,NDR Elbphilharmonie Orchester,2754870,2430078,The Complete Schumann Symphonies,1864,RCA Red Seal
+330706,Fazıl Say,2872190,2544190,Complete Violin Works,198,Naxos
+857393,Friedemann Eichhorn,2872190,2544190,Complete Violin Works,198,Naxos
+330706,Fazıl Say,2872190,2544190,Complete Violin Works,198,Naxos
+767970,Deutsche Radio Philharmonie Saarbrücken Kaiserslautern,2872190,2544190,Complete Violin Works,198,Naxos
+12181,Johannes Brahms,2882424,2436800,Symphonies 1-4,4057,Virgin Classics
+12181,Johannes Brahms,2882431,2111178,Symphony no. 3 / Alto Rhapsody,4057,Virgin Classics
+208706,Houston Symphony,2882431,2111178,Symphony no. 3 / Alto Rhapsody,4057,Virgin Classics
+12181,Johannes Brahms,2882450,2512255,Klaviertrios / Horntrio / Klarinettentrio,743,Deutsche Grammophon
+1299932,Trio di Trieste,2882450,2512255,Klaviertrios / Horntrio / Klarinettentrio,743,Deutsche Grammophon
+503174,Eduard Drolc,2882450,2512255,Klaviertrios / Horntrio / Klarinettentrio,743,Deutsche Grammophon
+241527,Gerd Seifert,2882450,2512255,Klaviertrios / Horntrio / Klarinettentrio,743,Deutsche Grammophon
+402637,Karl Leister,2882450,2512255,Klaviertrios / Horntrio / Klarinettentrio,743,Deutsche Grammophon
+503177,Georg Donderer,2882450,2512255,Klaviertrios / Horntrio / Klarinettentrio,743,Deutsche Grammophon
+12438,Franz Schubert,2882462,2492857,Music for Piano Duet,1156,Brilliant Classics
+372480,Justus Frantz,2882462,2492857,Music for Piano Duet,1156,Brilliant Classics
+12438,Franz Schubert,2882519,1842626,Die schöne Müllerin,377,Harmonia Mundi
+490313,Matthias Goerne,2882519,1842626,Die schöne Müllerin,377,Harmonia Mundi
+1021,Ludwig van Beethoven,2882521,1764607,Klaviertrios / Klavierquartette,743,Deutsche Grammophon
+41660,Wilhelm Kempff,2882521,1764607,Klaviertrios / Klavierquartette,743,Deutsche Grammophon
+80430,Henryk Szeryng,2882521,1764607,Klaviertrios / Klavierquartette,743,Deutsche Grammophon
+41995,Pierre Fournier,2882521,1764607,Klaviertrios / Klavierquartette,743,Deutsche Grammophon
+489875,Martin Lovett,2882521,1764607,Klaviertrios / Klavierquartette,743,Deutsche Grammophon
+402637,Karl Leister,2882521,1764607,Klaviertrios / Klavierquartette,743,Deutsche Grammophon
+489871,Norbert Brainin,2882521,1764607,Klaviertrios / Klavierquartette,743,Deutsche Grammophon
+489874,Peter Schidlof,2882521,1764607,Klaviertrios / Klavierquartette,743,Deutsche Grammophon
+238351,Wiener Philharmoniker,2829703,1998829,Sommernachtskonzert 2017 / Summer Night Concert 2017,1546,Sony Classical
+238351,Wiener Philharmoniker,2829703,1998829,Sommernachtskonzert 2017 / Summer Night Concert 2017,1546,Sony Classical
+119255,Renée Fleming,2829703,1998829,Sommernachtskonzert 2017 / Summer Night Concert 2017,1546,Sony Classical
+119255,Renée Fleming,2829703,1998829,Sommernachtskonzert 2017 / Summer Night Concert 2017,1546,Sony Classical
+33725,Сергей Васильевич Рахманинов,2831127,1027557,Rachmaninov: Piano Concerto No. 3 / Bartok: Piano Concerto No. 2,973,EMI Digital
+33725,Сергей Васильевич Рахманинов,2831127,1027557,Rachmaninov: Piano Concerto No. 3 / Bartok: Piano Concerto No. 2,417,EMI Classics
+21361,Béla Bartók,2831127,1027557,Rachmaninov: Piano Concerto No. 3 / Bartok: Piano Concerto No. 2,973,EMI Digital
+21361,Béla Bartók,2831127,1027557,Rachmaninov: Piano Concerto No. 3 / Bartok: Piano Concerto No. 2,417,EMI Classics
+71102,London Philharmonic Orchestra,2831127,1027557,Rachmaninov: Piano Concerto No. 3 / Bartok: Piano Concerto No. 2,973,EMI Digital
+71102,London Philharmonic Orchestra,2831127,1027557,Rachmaninov: Piano Concerto No. 3 / Bartok: Piano Concerto No. 2,417,EMI Classics
+128205,Tzimon Barto,2831127,1027557,Rachmaninov: Piano Concerto No. 3 / Bartok: Piano Concerto No. 2,973,EMI Digital
+128205,Tzimon Barto,2831127,1027557,Rachmaninov: Piano Concerto No. 3 / Bartok: Piano Concerto No. 2,417,EMI Classics
+47881,Paul Hindemith,2837157,2508833,"Kammermusik, Vol. 2",2369,Ondine
+47881,Paul Hindemith,2837157,2508833,"Kammermusik, Vol. 2",2369,Ondine
+2063550,Kronberg Academy Soloists,2837157,2508833,"Kammermusik, Vol. 2",2369,Ondine
+2063550,Kronberg Academy Soloists,2837157,2508833,"Kammermusik, Vol. 2",2369,Ondine
+1217881,Schleswig-Holstein Festival Orchestra,2837157,2508833,"Kammermusik, Vol. 2",2369,Ondine
+1217881,Schleswig-Holstein Festival Orchestra,2837157,2508833,"Kammermusik, Vol. 2",2369,Ondine
+1750214,Stephen Waarts,2837157,2508833,"Kammermusik, Vol. 2",2369,Ondine
+1750214,Stephen Waarts,2837157,2508833,"Kammermusik, Vol. 2",2369,Ondine
+1587580,Timothy Ridout,2837157,2508833,"Kammermusik, Vol. 2",2369,Ondine
+1587580,Timothy Ridout,2837157,2508833,"Kammermusik, Vol. 2",2369,Ondine
+2063548,Ziyu Shen,2837157,2508833,"Kammermusik, Vol. 2",2369,Ondine
+2063548,Ziyu Shen,2837157,2508833,"Kammermusik, Vol. 2",2369,Ondine
+709688,Christian Schmitt,2837157,2508833,"Kammermusik, Vol. 2",2369,Ondine
+709688,Christian Schmitt,2837157,2508833,"Kammermusik, Vol. 2",2369,Ondine
+12438,Franz Schubert,2906873,2580775,Franz Schubert - Music for piano duet,1156,Brilliant Classics
+372480,Justus Frantz,2906873,2580775,Franz Schubert - Music for piano duet,1156,Brilliant Classics
+12438,Franz Schubert,2906883,2580785,Franz Schubert - Music for piano duet,-1,
+372480,Justus Frantz,2906883,2580785,Franz Schubert - Music for piano duet,-1,
+1021,Ludwig van Beethoven,2923416,2598434,Beethoven: Piano Concerto No. 1 - Chopin: Etudes,3562,RCA Victor Red Seal
+83,Fryderyk Chopin,2923416,2598434,Beethoven: Piano Concerto No. 1 - Chopin: Etudes,3562,RCA Victor Red Seal
+125552,Святослав Теофилович Рихтер,2923416,2598434,Beethoven: Piano Concerto No. 1 - Chopin: Etudes,3562,RCA Victor Red Seal
+1217881,Schleswig-Holstein Festival Orchestra,2923416,2598434,Beethoven: Piano Concerto No. 1 - Chopin: Etudes,3562,RCA Victor Red Seal
+12438,Franz Schubert,3002371,2680944,Trout Quintet,7829,Avie
+1982246,Thymos Quartet,3002371,2680944,Trout Quintet,7829,Avie
+1546593,Yann Dubost,3002371,2680944,Trout Quintet,7829,Avie
+12181,Johannes Brahms,3107239,2775078,The Symphonies,10146,Berlin Classics
+63671,Konzerthausorchester Berlin,3107239,2775078,The Symphonies,10146,Berlin Classics

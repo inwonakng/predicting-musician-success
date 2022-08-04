@@ -1,0 +1,919 @@
+id,name,credit,songid,song,labelid,label
+45435,Leoš Janáček,969524,1152920,The Makropulos Case,1842,Chandos
+532700,English National Opera Orchestra,969524,1152920,The Makropulos Case,1842,Chandos
+884179,Cheryl Barker,969524,1152920,The Makropulos Case,1842,Chandos
+11285,Wolfgang Amadeus Mozart,2002369,1675562,Mozart,1225,Erato
+236805,Barbara Frittoli,2002369,1675562,Mozart,1225,Erato
+253574,Scottish Chamber Orchestra,2002369,1675562,Mozart,1225,Erato
+10729,Antonín Dvořák,986936,972583,Symphonic Poems,1906,Supraphon
+10729,Antonín Dvořák,986936,972583,Symphonic Poems,1906,Supraphon
+290356,Česká filharmonie,986936,972583,Symphonic Poems,1906,Supraphon
+290356,Česká filharmonie,986936,972583,Symphonic Poems,1906,Supraphon
+12181,Johannes Brahms,1006883,846792,Symphonies Nos. 3 & 4,38982,Telarc Digital
+12181,Johannes Brahms,1006883,875540,Symphony No. 2 / Variations on a Theme by Haydn,2422,Telarc
+12181,Johannes Brahms,1006883,19293,The Four Symphonies,2422,Telarc
+12181,Johannes Brahms,1006883,1050165,Serenades no. 1 & no. 2,38982,Telarc Digital
+12181,Johannes Brahms,1006883,266439,Symphony no. 1 / Academic Festival Overture,38982,Telarc Digital
+12181,Johannes Brahms,1006883,266439,Symphony no. 1 / Academic Festival Overture,2422,Telarc
+253574,Scottish Chamber Orchestra,1006883,846792,Symphonies Nos. 3 & 4,38982,Telarc Digital
+253574,Scottish Chamber Orchestra,1006883,875540,Symphony No. 2 / Variations on a Theme by Haydn,2422,Telarc
+253574,Scottish Chamber Orchestra,1006883,19293,The Four Symphonies,2422,Telarc
+253574,Scottish Chamber Orchestra,1006883,1050165,Serenades no. 1 & no. 2,38982,Telarc Digital
+253574,Scottish Chamber Orchestra,1006883,266439,Symphony no. 1 / Academic Festival Overture,38982,Telarc Digital
+253574,Scottish Chamber Orchestra,1006883,266439,Symphony no. 1 / Academic Festival Overture,2422,Telarc
+171234,Frederick Delius,1005478,657866,Orchestral Works,764,Decca Records
+171234,Frederick Delius,1005478,502981,Brigg Fair / North Country Sketches / The Walk to the Paradise Garden / In a Summer Garden,21350,Argo
+490828,Orchestra of the Welsh National Opera,1005478,657866,Orchestral Works,764,Decca Records
+490828,Orchestra of the Welsh National Opera,1005478,502981,Brigg Fair / North Country Sketches / The Walk to the Paradise Garden / In a Summer Garden,21350,Argo
+224030,Arthur Sullivan,1002593,911926,Sullivan: Cello Concerto in D / Herbert: Cello Concerto no. 2 / Elgar: Romance,62793,EMI
+115172,Victor Herbert,1002593,911926,Sullivan: Cello Concerto in D / Herbert: Cello Concerto no. 2 / Elgar: Romance,62793,EMI
+32736,Edward Elgar,1002593,911926,Sullivan: Cello Concerto in D / Herbert: Cello Concerto no. 2 / Elgar: Romance,62793,EMI
+48141,Julian Lloyd Webber,1002593,911926,Sullivan: Cello Concerto in D / Herbert: Cello Concerto no. 2 / Elgar: Romance,62793,EMI
+12299,London Symphony Orchestra,1002593,911926,Sullivan: Cello Concerto in D / Herbert: Cello Concerto no. 2 / Elgar: Romance,62793,EMI
+122653,Пётр Ильич Чайковский,997195,743609,Nutcracker,2422,Telarc
+122653,Пётр Ильич Чайковский,997195,743609,Nutcracker,38982,Telarc Digital
+122653,Пётр Ильич Чайковский,997195,743609,Nutcracker,2422,Telarc
+122653,Пётр Ильич Чайковский,997195,743609,Nutcracker,2422,Telarc
+12299,London Symphony Orchestra,997195,743609,Nutcracker,2422,Telarc
+12299,London Symphony Orchestra,997195,743609,Nutcracker,38982,Telarc Digital
+12299,London Symphony Orchestra,997195,743609,Nutcracker,2422,Telarc
+12299,London Symphony Orchestra,997195,743609,Nutcracker,2422,Telarc
+33725,Сергей Васильевич Рахманинов,1014031,805749,Symphony no. 3 / Symphonic Dances,62793,EMI
+391688,Royal Liverpool Philharmonic Orchestra,1014031,805749,Symphony no. 3 / Symphonic Dances,62793,EMI
+11444,Gustav Holst,1015237,90546,The Planets,4057,Virgin Classics
+11444,Gustav Holst,1015237,90546,The Planets,66432,Virgo
+391688,Royal Liverpool Philharmonic Orchestra,1015237,90546,The Planets,4057,Virgin Classics
+391688,Royal Liverpool Philharmonic Orchestra,1015237,90546,The Planets,66432,Virgo
+20157,Jean Sibelius,1055974,734727,Symphony No. 2 in D Major / Karelia Suite / Finlandia,14553,Tring International PLC
+20157,Jean Sibelius,1055974,734727,Symphony No. 2 in D Major / Karelia Suite / Finlandia,93094,The Royal Philharmonic Collection
+20157,Jean Sibelius,1055974,734727,Symphony No. 2 in D Major / Karelia Suite / Finlandia,23296,Centurion Classics
+42495,Royal Philharmonic Orchestra,1055974,734727,Symphony No. 2 in D Major / Karelia Suite / Finlandia,14553,Tring International PLC
+42495,Royal Philharmonic Orchestra,1055974,734727,Symphony No. 2 in D Major / Karelia Suite / Finlandia,93094,The Royal Philharmonic Collection
+42495,Royal Philharmonic Orchestra,1055974,734727,Symphony No. 2 in D Major / Karelia Suite / Finlandia,23296,Centurion Classics
+83,Fryderyk Chopin,2841686,799353,"Piano Concerto no. 1 in E minor, op. 11 / Grande Valse brillante in A minor, op. 34, no. 2 / Variations on ""Là ci darem la mano', op. 2",1546,Sony Classical
+448918,Orchestra of the Age of Enlightenment,2841686,799353,"Piano Concerto no. 1 in E minor, op. 11 / Grande Valse brillante in A minor, op. 34, no. 2 / Variations on ""Là ci darem la mano', op. 2",1546,Sony Classical
+342142,Emanuel Ax,2841686,799353,"Piano Concerto no. 1 in E minor, op. 11 / Grande Valse brillante in A minor, op. 34, no. 2 / Variations on ""Là ci darem la mano', op. 2",1546,Sony Classical
+12299,London Symphony Orchestra,1087751,976946,Kaleidoscope: An Orchestral Extravaganza,8403,Mercury Living Presence
+11285,Wolfgang Amadeus Mozart,2007683,593686,Così fan tutte,38982,Telarc Digital
+449146,Felicity Lott,2007683,593686,Così fan tutte,38982,Telarc Digital
+235974,Jerry Hadley,2007683,593686,Così fan tutte,38982,Telarc Digital
+444313,Marie McLaughlin,2007683,593686,Così fan tutte,38982,Telarc Digital
+442488,Alessandro Corbelli,2007683,593686,Così fan tutte,38982,Telarc Digital
+530496,Nuccia Focile,2007683,593686,Così fan tutte,38982,Telarc Digital
+461148,Gilles Cachemaille,2007683,593686,Così fan tutte,38982,Telarc Digital
+253574,Scottish Chamber Orchestra,2007683,593686,Così fan tutte,38982,Telarc Digital
+447002,Edinburgh Festival Chorus,2007683,593686,Così fan tutte,38982,Telarc Digital
+242448,W.S. Gilbert,1099804,87871,The Mikado,38982,Telarc Digital
+224030,Arthur Sullivan,1099804,87871,The Mikado,38982,Telarc Digital
+490828,Orchestra of the Welsh National Opera,1099804,87871,The Mikado,38982,Telarc Digital
+490827,Chorus of the Welsh National Opera,1099804,87871,The Mikado,38982,Telarc Digital
+21361,Béla Bartók,1102669,1221354,"Bartok: Music for Strings, Percussion and Celeste / Bartok: Divertimento / Kodaly: Dances of Galanta",5541,Linn Records
+138879,Zoltán Kodály,1102669,1221354,"Bartok: Music for Strings, Percussion and Celeste / Bartok: Divertimento / Kodaly: Dances of Galanta",5541,Linn Records
+253574,Scottish Chamber Orchestra,1102669,1221354,"Bartok: Music for Strings, Percussion and Celeste / Bartok: Divertimento / Kodaly: Dances of Galanta",5541,Linn Records
+132379,Ernest Bloch,1144263,784426,Bloch: Schelomo / Bruch: Kol Nidrei,3562,RCA Victor Red Seal
+132379,Ernest Bloch,1144263,784426,Bloch: Schelomo / Bruch: Kol Nidrei,3562,RCA Victor Red Seal
+41124,Max Bruch,1144263,784426,Bloch: Schelomo / Bruch: Kol Nidrei,3562,RCA Victor Red Seal
+41124,Max Bruch,1144263,784426,Bloch: Schelomo / Bruch: Kol Nidrei,3562,RCA Victor Red Seal
+46612,Ofra Harnoy,1144263,784426,Bloch: Schelomo / Bruch: Kol Nidrei,3562,RCA Victor Red Seal
+46612,Ofra Harnoy,1144263,784426,Bloch: Schelomo / Bruch: Kol Nidrei,3562,RCA Victor Red Seal
+71102,London Philharmonic Orchestra,1144263,784426,Bloch: Schelomo / Bruch: Kol Nidrei,3562,RCA Victor Red Seal
+71102,London Philharmonic Orchestra,1144263,784426,Bloch: Schelomo / Bruch: Kol Nidrei,3562,RCA Victor Red Seal
+37544,Carl Maria von Weber,1149759,678240,"The Romantic Piano Concerto, Volume 10: Piano Concerto no. 1 in C major / Piano Concerto no. 2 in E-flat major / Konzertstück in F minor",388,Hyperion
+253574,Scottish Chamber Orchestra,1149759,678240,"The Romantic Piano Concerto, Volume 10: Piano Concerto no. 1 in C major / Piano Concerto no. 2 in E-flat major / Konzertstück in F minor",388,Hyperion
+171580,Nikolai Demidenko,1149759,678240,"The Romantic Piano Concerto, Volume 10: Piano Concerto no. 1 in C major / Piano Concerto no. 2 in E-flat major / Konzertstück in F minor",388,Hyperion
+1021,Ludwig van Beethoven,1183471,681010,The Symphonies: Live From the Edinburgh Festival,388,Hyperion
+253574,Scottish Chamber Orchestra,1183471,681010,The Symphonies: Live From the Edinburgh Festival,388,Hyperion
+130808,Philharmonia Orchestra,1183471,681010,The Symphonies: Live From the Edinburgh Festival,388,Hyperion
+10729,Antonín Dvořák,1186479,948600,Slavonic dances,1906,Supraphon
+290356,Česká filharmonie,1186479,948600,Slavonic dances,1906,Supraphon
+11285,Wolfgang Amadeus Mozart,1216823,179308,Flute Concerto / Oboe Concerto / Sinfonia Concertante / Flute & Harp Concerto,21599,Classics for Pleasure
+71102,London Philharmonic Orchestra,1216823,179308,Flute Concerto / Oboe Concerto / Sinfonia Concertante / Flute & Harp Concerto,21599,Classics for Pleasure
+402875,Andrew Litton,1216823,179308,Flute Concerto / Oboe Concerto / Sinfonia Concertante / Flute & Harp Concerto,21599,Classics for Pleasure
+11285,Wolfgang Amadeus Mozart,1217480,1297234,Die Entführung aus dem Serail,38982,Telarc Digital
+253574,Scottish Chamber Orchestra,1217480,1297234,Die Entführung aus dem Serail,38982,Telarc Digital
+918677,Scottish Chamber Chorus,1217480,1297234,Die Entführung aus dem Serail,38982,Telarc Digital
+1043480,Yelda Kodallı,1217480,1297234,Die Entführung aus dem Serail,38982,Telarc Digital
+829550,Paul Groves,1217480,1297234,Die Entführung aus dem Serail,38982,Telarc Digital
+1042997,Desirée Rancatore,1217480,1297234,Die Entführung aus dem Serail,38982,Telarc Digital
+960456,Peter Rose,1217480,1297234,Die Entführung aus dem Serail,38982,Telarc Digital
+1043481,Lynton Atkinson,1217480,1297234,Die Entführung aus dem Serail,38982,Telarc Digital
+696631,Oliver Tobias,1217480,1297234,Die Entführung aus dem Serail,38982,Telarc Digital
+10729,Antonín Dvořák,1229929,1311742,Symphonic Variations / Symphony no. 8,63722,LPO
+10729,Antonín Dvořák,1229929,1311742,Symphonic Variations / Symphony no. 8,63722,LPO
+71102,London Philharmonic Orchestra,1229929,1311742,Symphonic Variations / Symphony no. 8,63722,LPO
+71102,London Philharmonic Orchestra,1229929,1311742,Symphonic Variations / Symphony no. 8,63722,LPO
+11285,Wolfgang Amadeus Mozart,1266007,1339416,La clemenza di Tito,743,Deutsche Grammophon
+58370,Magdalena Kožená,1266007,1339416,La clemenza di Tito,743,Deutsche Grammophon
+807966,Rainer Trost,1266007,1339416,La clemenza di Tito,743,Deutsche Grammophon
+451969,Hillevi Martinpelto,1266007,1339416,La clemenza di Tito,743,Deutsche Grammophon
+253574,Scottish Chamber Orchestra,1266007,1339416,La clemenza di Tito,743,Deutsche Grammophon
+11285,Wolfgang Amadeus Mozart,1237004,1139821,Piano Concertos K414 & K453,1205,Philips
+11285,Wolfgang Amadeus Mozart,1237004,80309,Piano Concertos K482 & K595,1519,Philips Classics
+11285,Wolfgang Amadeus Mozart,1237004,1138731,Piano Concertos K466 & K491,1519,Philips Classics
+11285,Wolfgang Amadeus Mozart,1237004,179327,"Piano Concertos K. 271 ""Jeunehomme"" & K. 503",1205,Philips
+253574,Scottish Chamber Orchestra,1237004,1139821,Piano Concertos K414 & K453,1205,Philips
+253574,Scottish Chamber Orchestra,1237004,80309,Piano Concertos K482 & K595,1519,Philips Classics
+253574,Scottish Chamber Orchestra,1237004,1138731,Piano Concertos K466 & K491,1519,Philips Classics
+253574,Scottish Chamber Orchestra,1237004,179327,"Piano Concertos K. 271 ""Jeunehomme"" & K. 503",1205,Philips
+241697,Alfred Brendel,1237004,1139821,Piano Concertos K414 & K453,1205,Philips
+241697,Alfred Brendel,1237004,80309,Piano Concertos K482 & K595,1519,Philips Classics
+241697,Alfred Brendel,1237004,1138731,Piano Concertos K466 & K491,1519,Philips Classics
+241697,Alfred Brendel,1237004,179327,"Piano Concertos K. 271 ""Jeunehomme"" & K. 503",1205,Philips
+241697,Alfred Brendel,1241329,891912,The Farewell Concerts,36314,Decca Classics
+238351,Wiener Philharmoniker,1241329,891912,The Farewell Concerts,36314,Decca Classics
+45435,Leoš Janáček,1244521,614246,Jenůfa,764,Decca Records
+238351,Wiener Philharmoniker,1244521,614246,Jenůfa,764,Decca Records
+10729,Antonín Dvořák,1252300,1329023,"Symphonies 7, 8 and 9 / Symphonic Variations",62793,EMI
+10729,Antonín Dvořák,1252300,815764,"Symphony Nos. 9 ""New World"", 8",18657,HMV Classics
+71102,London Philharmonic Orchestra,1252300,1329023,"Symphonies 7, 8 and 9 / Symphonic Variations",62793,EMI
+71102,London Philharmonic Orchestra,1252300,815764,"Symphony Nos. 9 ""New World"", 8",18657,HMV Classics
+11285,Wolfgang Amadeus Mozart,1253006,935017,"Symphonies 29, 31 ""Paris"", 32, 35 ""Haffner"" & 36 ""Linz""",5541,Linn Records
+11285,Wolfgang Amadeus Mozart,1253006,935017,"Symphonies 29, 31 ""Paris"", 32, 35 ""Haffner"" & 36 ""Linz""",5541,Linn Records
+11285,Wolfgang Amadeus Mozart,1253006,1018410,Symphonies 38 - 41,5541,Linn Records
+11285,Wolfgang Amadeus Mozart,1253006,1018410,Symphonies 38 - 41,5541,Linn Records
+11285,Wolfgang Amadeus Mozart,1253006,896056,Requiem / Adagio & Fugue,5541,Linn Records
+253574,Scottish Chamber Orchestra,1253006,935017,"Symphonies 29, 31 ""Paris"", 32, 35 ""Haffner"" & 36 ""Linz""",5541,Linn Records
+253574,Scottish Chamber Orchestra,1253006,935017,"Symphonies 29, 31 ""Paris"", 32, 35 ""Haffner"" & 36 ""Linz""",5541,Linn Records
+253574,Scottish Chamber Orchestra,1253006,1018410,Symphonies 38 - 41,5541,Linn Records
+253574,Scottish Chamber Orchestra,1253006,1018410,Symphonies 38 - 41,5541,Linn Records
+253574,Scottish Chamber Orchestra,1253006,896056,Requiem / Adagio & Fugue,5541,Linn Records
+11285,Wolfgang Amadeus Mozart,1253034,1330281,Flute and Harp Concerto,21599,Classics for Pleasure
+520648,Jonathan Snowden,1253034,1330281,Flute and Harp Concerto,21599,Classics for Pleasure
+71102,London Philharmonic Orchestra,1253034,1330281,Flute and Harp Concerto,21599,Classics for Pleasure
+402875,Andrew Litton,1253034,1330281,Flute and Harp Concerto,21599,Classics for Pleasure
+11285,Wolfgang Amadeus Mozart,1255645,196004,"Eine Kleine Nachtmusik / ""Posthorn"" Serenade",38982,Telarc Digital
+11285,Wolfgang Amadeus Mozart,1255645,196004,"Eine Kleine Nachtmusik / ""Posthorn"" Serenade",2422,Telarc
+11285,Wolfgang Amadeus Mozart,1255645,1687814,"Symphonies No. 24, No. 26, No. 27 & No. 30",38982,Telarc Digital
+11285,Wolfgang Amadeus Mozart,1255645,1745501,The Symphonies,38982,Telarc Digital
+11285,Wolfgang Amadeus Mozart,1255645,1745501,The Symphonies,2422,Telarc
+11285,Wolfgang Amadeus Mozart,1255645,2397164,"Symphonies Nos. 1, K.19a, 4, 5, 6, ""55"" & 7",38982,Telarc Digital
+11285,Wolfgang Amadeus Mozart,1255645,2466873,"Symphonies No. 14, No. 15, No. 16, No. 17 & No. 18",38982,Telarc Digital
+479269,Pražský komorní orchestr,1255645,196004,"Eine Kleine Nachtmusik / ""Posthorn"" Serenade",38982,Telarc Digital
+479269,Pražský komorní orchestr,1255645,196004,"Eine Kleine Nachtmusik / ""Posthorn"" Serenade",2422,Telarc
+479269,Pražský komorní orchestr,1255645,1687814,"Symphonies No. 24, No. 26, No. 27 & No. 30",38982,Telarc Digital
+479269,Pražský komorní orchestr,1255645,1745501,The Symphonies,38982,Telarc Digital
+479269,Pražský komorní orchestr,1255645,1745501,The Symphonies,2422,Telarc
+479269,Pražský komorní orchestr,1255645,2397164,"Symphonies Nos. 1, K.19a, 4, 5, 6, ""55"" & 7",38982,Telarc Digital
+479269,Pražský komorní orchestr,1255645,2466873,"Symphonies No. 14, No. 15, No. 16, No. 17 & No. 18",38982,Telarc Digital
+73502,George Frideric Handel,1255646,945778,Water Music Suites 1-3,62793,EMI
+73502,George Frideric Handel,1255646,945778,Water Music Suites 1-3,46615,Encore
+73502,George Frideric Handel,1255646,945778,Water Music Suites 1-3,62793,EMI
+479269,Pražský komorní orchestr,1255646,945778,Water Music Suites 1-3,62793,EMI
+479269,Pražský komorní orchestr,1255646,945778,Water Music Suites 1-3,46615,Encore
+479269,Pražský komorní orchestr,1255646,945778,Water Music Suites 1-3,62793,EMI
+11285,Wolfgang Amadeus Mozart,2005741,36705,Horn Concerti,38982,Telarc Digital
+920349,Eric Ruske,2005741,36705,Horn Concerti,38982,Telarc Digital
+253574,Scottish Chamber Orchestra,2005741,36705,Horn Concerti,38982,Telarc Digital
+31839,Joseph Haydn,1283161,148968,"Symphony no. 100 ""Military"" / Symphony no. 103 ""Drumroll""",2422,Telarc
+31839,Joseph Haydn,1283161,1349980,"Symphony No. 101 ""The Clock"" / Symphony No. 104 ""London""",2422,Telarc
+31839,Joseph Haydn,1283161,1423123,"Symphony no. 31 ""Hornsignal"" / Symphony no. 45 ""Farewell""",38982,Telarc Digital
+317643,Orchestra of St. Luke’s,1283161,148968,"Symphony no. 100 ""Military"" / Symphony no. 103 ""Drumroll""",2422,Telarc
+317643,Orchestra of St. Luke’s,1283161,1349980,"Symphony No. 101 ""The Clock"" / Symphony No. 104 ""London""",2422,Telarc
+317643,Orchestra of St. Luke’s,1283161,1423123,"Symphony no. 31 ""Hornsignal"" / Symphony no. 45 ""Farewell""",38982,Telarc Digital
+1021,Ludwig van Beethoven,1289174,551585,The Nine Symphonies,21599,Classics for Pleasure
+1021,Ludwig van Beethoven,1289174,551585,The Nine Symphonies,-1,
+1021,Ludwig van Beethoven,1289174,1521504,Symphonies nos. 2 & 8,62793,EMI
+1021,Ludwig van Beethoven,1289174,1521504,Symphonies nos. 2 & 8,21599,Classics for Pleasure
+391688,Royal Liverpool Philharmonic Orchestra,1289174,551585,The Nine Symphonies,21599,Classics for Pleasure
+391688,Royal Liverpool Philharmonic Orchestra,1289174,551585,The Nine Symphonies,-1,
+391688,Royal Liverpool Philharmonic Orchestra,1289174,1521504,Symphonies nos. 2 & 8,62793,EMI
+391688,Royal Liverpool Philharmonic Orchestra,1289174,1521504,Symphonies nos. 2 & 8,21599,Classics for Pleasure
+11285,Wolfgang Amadeus Mozart,1289181,1092400,"Serenade in B-flat major for 13 winds, ""Gran Partita""",38982,Telarc Digital
+317643,Orchestra of St. Luke’s,1289181,1092400,"Serenade in B-flat major for 13 winds, ""Gran Partita""",38982,Telarc Digital
+1021,Ludwig van Beethoven,1289883,1356996,"Symphony No. 3 ""Eroica"" / Overtures",18657,HMV Classics
+497100,Deutsche Kammerphilharmonie Bremen,1289883,1356996,"Symphony No. 3 ""Eroica"" / Overtures",18657,HMV Classics
+572186,Daniel Harding,1289883,1356996,"Symphony No. 3 ""Eroica"" / Overtures",18657,HMV Classics
+391688,Royal Liverpool Philharmonic Orchestra,1289883,1356996,"Symphony No. 3 ""Eroica"" / Overtures",18657,HMV Classics
+1021,Ludwig van Beethoven,1289894,1357006,"Symphony No. 6 ""Pastoral"" / Symphony No. 8",18657,HMV Classics
+1021,Ludwig van Beethoven,1289894,1357001,Symphonies Nos 5 & 7,18657,HMV Classics
+391688,Royal Liverpool Philharmonic Orchestra,1289894,1357006,"Symphony No. 6 ""Pastoral"" / Symphony No. 8",18657,HMV Classics
+391688,Royal Liverpool Philharmonic Orchestra,1289894,1357001,Symphonies Nos 5 & 7,18657,HMV Classics
+10729,Antonín Dvořák,1291759,1047233,Dvořák: Violin Concerto / Suk: Fantasy,426,London Records
+94736,Josef Suk,1291759,1047233,Dvořák: Violin Concerto / Suk: Fantasy,426,London Records
+290356,Česká filharmonie,1291759,1047233,Dvořák: Violin Concerto / Suk: Fantasy,426,London Records
+608909,Pamela Frank,1291759,1047233,Dvořák: Violin Concerto / Suk: Fantasy,426,London Records
+45435,Leoš Janáček,1291772,1036666,Janáček: Glagolitic Mass / Kodály: Psalmus Hungaricus,1842,Chandos
+138879,Zoltán Kodály,1291772,1036666,Janáček: Glagolitic Mass / Kodály: Psalmus Hungaricus,1842,Chandos
+246036,DR SymfoniOrkestret,1291772,1036666,Janáček: Glagolitic Mass / Kodály: Psalmus Hungaricus,1842,Chandos
+960798,Danish National Radio Choir,1291772,1036666,Janáček: Glagolitic Mass / Kodály: Psalmus Hungaricus,1842,Chandos
+12438,Franz Schubert,1310970,664091,"Symphony no. 9 ""The Great"" / Symphony no. 8 ""Unfinished"")",2422,Telarc
+253574,Scottish Chamber Orchestra,1310970,664091,"Symphony no. 9 ""The Great"" / Symphony no. 8 ""Unfinished"")",2422,Telarc
+37545,Gaetano Donizetti,1415656,1480325,Roberto Devereux (Elizabeth and Essex),2333,ABC Records
+37545,Gaetano Donizetti,1415656,1480325,Roberto Devereux (Elizabeth and Essex),743,Deutsche Grammophon
+37545,Gaetano Donizetti,1415656,1480325,Roberto Devereux (Elizabeth and Essex),67407,Westminster Records
+37545,Gaetano Donizetti,1415656,1480325,Roberto Devereux (Elizabeth and Essex),58600,EMI Angel
+37545,Gaetano Donizetti,1415656,1480325,Roberto Devereux (Elizabeth and Essex),21026,Westminster Music Ltd.
+37545,Gaetano Donizetti,1415656,1480325,Roberto Devereux (Elizabeth and Essex),2333,ABC Records
+249425,Beverly Sills,1415656,1480325,Roberto Devereux (Elizabeth and Essex),2333,ABC Records
+249425,Beverly Sills,1415656,1480325,Roberto Devereux (Elizabeth and Essex),743,Deutsche Grammophon
+249425,Beverly Sills,1415656,1480325,Roberto Devereux (Elizabeth and Essex),67407,Westminster Records
+249425,Beverly Sills,1415656,1480325,Roberto Devereux (Elizabeth and Essex),58600,EMI Angel
+249425,Beverly Sills,1415656,1480325,Roberto Devereux (Elizabeth and Essex),21026,Westminster Music Ltd.
+249425,Beverly Sills,1415656,1480325,Roberto Devereux (Elizabeth and Essex),2333,ABC Records
+1188645,Róbert Ilosfalvy,1415656,1480325,Roberto Devereux (Elizabeth and Essex),2333,ABC Records
+1188645,Róbert Ilosfalvy,1415656,1480325,Roberto Devereux (Elizabeth and Essex),743,Deutsche Grammophon
+1188645,Róbert Ilosfalvy,1415656,1480325,Roberto Devereux (Elizabeth and Essex),67407,Westminster Records
+1188645,Róbert Ilosfalvy,1415656,1480325,Roberto Devereux (Elizabeth and Essex),58600,EMI Angel
+1188645,Róbert Ilosfalvy,1415656,1480325,Roberto Devereux (Elizabeth and Essex),21026,Westminster Music Ltd.
+1188645,Róbert Ilosfalvy,1415656,1480325,Roberto Devereux (Elizabeth and Essex),2333,ABC Records
+947904,Peter Glossop,1415656,1480325,Roberto Devereux (Elizabeth and Essex),2333,ABC Records
+947904,Peter Glossop,1415656,1480325,Roberto Devereux (Elizabeth and Essex),743,Deutsche Grammophon
+947904,Peter Glossop,1415656,1480325,Roberto Devereux (Elizabeth and Essex),67407,Westminster Records
+947904,Peter Glossop,1415656,1480325,Roberto Devereux (Elizabeth and Essex),58600,EMI Angel
+947904,Peter Glossop,1415656,1480325,Roberto Devereux (Elizabeth and Essex),21026,Westminster Music Ltd.
+947904,Peter Glossop,1415656,1480325,Roberto Devereux (Elizabeth and Essex),2333,ABC Records
+776799,Beverly Wolff,1415656,1480325,Roberto Devereux (Elizabeth and Essex),2333,ABC Records
+776799,Beverly Wolff,1415656,1480325,Roberto Devereux (Elizabeth and Essex),743,Deutsche Grammophon
+776799,Beverly Wolff,1415656,1480325,Roberto Devereux (Elizabeth and Essex),67407,Westminster Records
+776799,Beverly Wolff,1415656,1480325,Roberto Devereux (Elizabeth and Essex),58600,EMI Angel
+776799,Beverly Wolff,1415656,1480325,Roberto Devereux (Elizabeth and Essex),21026,Westminster Music Ltd.
+776799,Beverly Wolff,1415656,1480325,Roberto Devereux (Elizabeth and Essex),2333,ABC Records
+42495,Royal Philharmonic Orchestra,1415656,1480325,Roberto Devereux (Elizabeth and Essex),2333,ABC Records
+42495,Royal Philharmonic Orchestra,1415656,1480325,Roberto Devereux (Elizabeth and Essex),743,Deutsche Grammophon
+42495,Royal Philharmonic Orchestra,1415656,1480325,Roberto Devereux (Elizabeth and Essex),67407,Westminster Records
+42495,Royal Philharmonic Orchestra,1415656,1480325,Roberto Devereux (Elizabeth and Essex),58600,EMI Angel
+42495,Royal Philharmonic Orchestra,1415656,1480325,Roberto Devereux (Elizabeth and Essex),21026,Westminster Music Ltd.
+42495,Royal Philharmonic Orchestra,1415656,1480325,Roberto Devereux (Elizabeth and Essex),2333,ABC Records
+10293,Gustav Mahler,1411051,1477005,"BBC Music, Volume 13, Number 7: Symphony No. 6",52411,BBC Music Magazine
+124934,BBC Philharmonic,1411051,1477005,"BBC Music, Volume 13, Number 7: Symphony No. 6",52411,BBC Music Magazine
+20877,Edvard Grieg,1355564,1408174,Finlandia: Music of Grieg and Sibelius,3562,RCA Victor Red Seal
+20157,Jean Sibelius,1355564,1408174,Finlandia: Music of Grieg and Sibelius,3562,RCA Victor Red Seal
+431357,New Symphony Orchestra of London,1355564,1408174,Finlandia: Music of Grieg and Sibelius,3562,RCA Victor Red Seal
+23395,Игорь Фёдорович Стравинский,1411343,981804,"The Rite of Spring / Fireworks, op. 4 / Circus Polka / Greeting Prelude “Happy Birthday”",18004,EMI Eminence
+23395,Игорь Фёдорович Стравинский,1411343,981804,"The Rite of Spring / Fireworks, op. 4 / Circus Polka / Greeting Prelude “Happy Birthday”",18004,EMI Eminence
+71102,London Philharmonic Orchestra,1411343,981804,"The Rite of Spring / Fireworks, op. 4 / Circus Polka / Greeting Prelude “Happy Birthday”",18004,EMI Eminence
+71102,London Philharmonic Orchestra,1411343,981804,"The Rite of Spring / Fireworks, op. 4 / Circus Polka / Greeting Prelude “Happy Birthday”",18004,EMI Eminence
+73502,George Frideric Handel,1373998,814784,"Orchesterwerke / Concerto grosso, op. 3,1 / Feuerwerkskonzerte",4613,Novalis
+5550,English Chamber Orchestra,1373998,814784,"Orchesterwerke / Concerto grosso, op. 3,1 / Feuerwerkskonzerte",4613,Novalis
+20877,Edvard Grieg,1377396,1452122,Holberg Suite / Elegiac Melodies / Nordic Melodies / Lyric Pieces,36314,Decca Classics
+391592,Willi Boskovsky,1377396,1452122,Holberg Suite / Elegiac Melodies / Nordic Melodies / Lyric Pieces,36314,Decca Classics
+73021,Stanley Black,1377396,1452122,Holberg Suite / Elegiac Melodies / Nordic Melodies / Lyric Pieces,36314,Decca Classics
+45435,Leoš Janáček,1379892,1007813,Sir Charles Mackerras Conducts Janáček,1906,Supraphon
+290356,Česká filharmonie,1379892,1007813,Sir Charles Mackerras Conducts Janáček,1906,Supraphon
+11285,Wolfgang Amadeus Mozart,1380905,862567,Die Zauberflöte,38982,Telarc Digital
+253574,Scottish Chamber Orchestra,1380905,862567,Die Zauberflöte,38982,Telarc Digital
+918677,Scottish Chamber Chorus,1380905,862567,Die Zauberflöte,38982,Telarc Digital
+1021,Ludwig van Beethoven,1403334,710585,"Die Geschöpfe des Prometheus, op. 43",22708,helios
+1021,Ludwig van Beethoven,1403334,710585,"Die Geschöpfe des Prometheus, op. 43",388,Hyperion
+253574,Scottish Chamber Orchestra,1403334,710585,"Die Geschöpfe des Prometheus, op. 43",22708,helios
+253574,Scottish Chamber Orchestra,1403334,710585,"Die Geschöpfe des Prometheus, op. 43",388,Hyperion
+32736,Edward Elgar,1429416,1487365,Symphony No. 2 / Sea Pictures,21350,Argo
+42495,Royal Philharmonic Orchestra,1429416,1487365,Symphony No. 2 / Sea Pictures,21350,Argo
+239681,Della Jones,1429416,1487365,Symphony No. 2 / Sea Pictures,21350,Argo
+34560,Модест Петрович Мусоргский,1433095,970649,Pictures From an Exhibition / A Night on the Bare Mountain,4057,Virgin Classics
+391688,Royal Liverpool Philharmonic Orchestra,1433095,970649,Pictures From an Exhibition / A Night on the Bare Mountain,4057,Virgin Classics
+31454,Николай Андреевич Римский‐Корсаков,1493607,612821,Scheherazade / Capriccio espagnol,38982,Telarc Digital
+12299,London Symphony Orchestra,1493607,612821,Scheherazade / Capriccio espagnol,38982,Telarc Digital
+10093,Дмитрий Дмитриевич Шостакович,1451612,798220,Festive Overture / Symphony no. 5 in D minor,14553,Tring International PLC
+10093,Дмитрий Дмитриевич Шостакович,1451612,798220,Festive Overture / Symphony no. 5 in D minor,-1,
+10093,Дмитрий Дмитриевич Шостакович,1451612,798220,Festive Overture / Symphony no. 5 in D minor,93094,The Royal Philharmonic Collection
+42495,Royal Philharmonic Orchestra,1451612,798220,Festive Overture / Symphony no. 5 in D minor,14553,Tring International PLC
+42495,Royal Philharmonic Orchestra,1451612,798220,Festive Overture / Symphony no. 5 in D minor,-1,
+42495,Royal Philharmonic Orchestra,1451612,798220,Festive Overture / Symphony no. 5 in D minor,93094,The Royal Philharmonic Collection
+171234,Frederick Delius,1462449,1514386,Paris / Double Concerto / Cello Concerto,21599,Classics for Pleasure
+133883,Tasmin Little,1462449,1514386,Paris / Double Concerto / Cello Concerto,21599,Classics for Pleasure
+340780,Raphael Wallfisch,1462449,1514386,Paris / Double Concerto / Cello Concerto,21599,Classics for Pleasure
+391688,Royal Liverpool Philharmonic Orchestra,1462449,1514386,Paris / Double Concerto / Cello Concerto,21599,Classics for Pleasure
+32736,Edward Elgar,1469400,1520264,Symphony No.1 / Cockaigne Overture,21350,Argo
+12299,London Symphony Orchestra,1469400,1520264,Symphony No.1 / Cockaigne Overture,21350,Argo
+12438,Franz Schubert,1471007,1520265,Symphony no. 9 in C major 'The Great',4057,Virgin Classics
+12438,Franz Schubert,1471007,1520265,Symphony no. 9 in C major 'The Great',3707,Musical Heritage Society
+448918,Orchestra of the Age of Enlightenment,1471007,1520265,Symphony no. 9 in C major 'The Great',4057,Virgin Classics
+448918,Orchestra of the Age of Enlightenment,1471007,1520265,Symphony no. 9 in C major 'The Great',3707,Musical Heritage Society
+34491,Felix Mendelssohn,1471010,1229752,Symphony no. 4 / A Midsummer Night's Dream,4057,Virgin Classics
+448918,Orchestra of the Age of Enlightenment,1471010,1229752,Symphony no. 4 / A Midsummer Night's Dream,4057,Virgin Classics
+45435,Leoš Janáček,1513087,200522,Sinfonietta / Taras Bulba,426,London Records
+45435,Leoš Janáček,1513087,2429446,Sinfonietta / Taras Bulba,764,Decca Records
+238351,Wiener Philharmoniker,1513087,200522,Sinfonietta / Taras Bulba,426,London Records
+238351,Wiener Philharmoniker,1513087,2429446,Sinfonietta / Taras Bulba,764,Decca Records
+10293,Gustav Mahler,1548331,94110,Symphony No. 5,-1,
+391688,Royal Liverpool Philharmonic Orchestra,1548331,94110,Symphony No. 5,-1,
+73502,George Frideric Handel,1575440,753964,Messiah (Highlights),-1,
+73502,George Frideric Handel,1575440,753964,Messiah (Highlights),66850,EMI Studio DRM
+222194,Ambrosian Singers,1575440,753964,Messiah (Highlights),-1,
+222194,Ambrosian Singers,1575440,753964,Messiah (Highlights),66850,EMI Studio DRM
+5550,English Chamber Orchestra,1575440,753964,Messiah (Highlights),-1,
+5550,English Chamber Orchestra,1575440,753964,Messiah (Highlights),66850,EMI Studio DRM
+73502,George Frideric Handel,1575481,863283,Der Messias (Messiah),3152,Archiv Produktion
+327200,Edith Mathis,1575481,863283,Der Messias (Messiah),3152,Archiv Produktion
+452728,Birgit Finnilä,1575481,863283,Der Messias (Messiah),3152,Archiv Produktion
+179537,Peter Schreier,1575481,863283,Der Messias (Messiah),3152,Archiv Produktion
+254702,Theo Adam,1575481,863283,Der Messias (Messiah),3152,Archiv Produktion
+171234,Frederick Delius,1579075,1276638,Violin Concerto / On Hearing the First Cuckoo in Spring / Summer Night on the River / Dance Rhapsodies,21350,Argo
+171234,Frederick Delius,1579075,1276638,Violin Concerto / On Hearing the First Cuckoo in Spring / Summer Night on the River / Dance Rhapsodies,21350,Argo
+490828,Orchestra of the Welsh National Opera,1579075,1276638,Violin Concerto / On Hearing the First Cuckoo in Spring / Summer Night on the River / Dance Rhapsodies,21350,Argo
+490828,Orchestra of the Welsh National Opera,1579075,1276638,Violin Concerto / On Hearing the First Cuckoo in Spring / Summer Night on the River / Dance Rhapsodies,21350,Argo
+133883,Tasmin Little,1579075,1276638,Violin Concerto / On Hearing the First Cuckoo in Spring / Summer Night on the River / Dance Rhapsodies,21350,Argo
+133883,Tasmin Little,1579075,1276638,Violin Concerto / On Hearing the First Cuckoo in Spring / Summer Night on the River / Dance Rhapsodies,21350,Argo
+171234,Frederick Delius,1579087,145329,Sea Drift / Florida Suite,-1,
+490828,Orchestra of the Welsh National Opera,1579087,145329,Sea Drift / Florida Suite,-1,
+490827,Chorus of the Welsh National Opera,1579087,145329,Sea Drift / Florida Suite,-1,
+124937,Thomas Hampson,1579087,145329,Sea Drift / Florida Suite,-1,
+171234,Frederick Delius,1579144,625327,A Village Romeo and Juliet,21350,Argo
+605119,ORF Radio‐Symphonieorchester Wien,1579144,625327,A Village Romeo and Juliet,21350,Argo
+743214,Arnold Schoenberg Chor,1579144,625327,A Village Romeo and Juliet,21350,Argo
+15747,Richard Wagner,1589811,986754,Götterdämmerung Highlights: Siegfried Idyll,21599,Classics for Pleasure
+71102,London Philharmonic Orchestra,1589811,986754,Götterdämmerung Highlights: Siegfried Idyll,21599,Classics for Pleasure
+483551,Sir Edward Downes,1589811,986754,Götterdämmerung Highlights: Siegfried Idyll,21599,Classics for Pleasure
+1021,Ludwig van Beethoven,1626597,1635178,Violin Concertos,21599,Classics for Pleasure
+1021,Ludwig van Beethoven,1626597,1635178,Violin Concertos,21599,Classics for Pleasure
+34491,Felix Mendelssohn,1626597,1635178,Violin Concertos,21599,Classics for Pleasure
+34491,Felix Mendelssohn,1626597,1635178,Violin Concertos,21599,Classics for Pleasure
+442546,Monica Huggett,1626597,1635178,Violin Concertos,21599,Classics for Pleasure
+442546,Monica Huggett,1626597,1635178,Violin Concertos,21599,Classics for Pleasure
+448918,Orchestra of the Age of Enlightenment,1626597,1635178,Violin Concertos,21599,Classics for Pleasure
+448918,Orchestra of the Age of Enlightenment,1626597,1635178,Violin Concertos,21599,Classics for Pleasure
+73502,George Frideric Handel,1658301,837980,Music for the Royal Fireworks,18657,HMV Classics
+10729,Antonín Dvořák,2136105,1905848,Symphony no. 7 & Symphony no. 8,16197,Signum Classics
+130808,Philharmonia Orchestra,2136105,1905848,Symphony no. 7 & Symphony no. 8,16197,Signum Classics
+45435,Leoš Janáček,1694177,442883,The Cunning Little Vixen,764,Decca Records
+45435,Leoš Janáček,1694177,442883,The Cunning Little Vixen,426,London Records
+236804,Lucia Popp,1694177,442883,The Cunning Little Vixen,764,Decca Records
+236804,Lucia Popp,1694177,442883,The Cunning Little Vixen,426,London Records
+530943,Eva Randová,1694177,442883,The Cunning Little Vixen,764,Decca Records
+530943,Eva Randová,1694177,442883,The Cunning Little Vixen,426,London Records
+443847,Dalibor Jedlička,1694177,442883,The Cunning Little Vixen,764,Decca Records
+443847,Dalibor Jedlička,1694177,442883,The Cunning Little Vixen,426,London Records
+238351,Wiener Philharmoniker,1694177,442883,The Cunning Little Vixen,764,Decca Records
+238351,Wiener Philharmoniker,1694177,442883,The Cunning Little Vixen,426,London Records
+224030,Arthur Sullivan,1697901,1120114,"BBC Music, Volume 9, Number 7: Te Deum, Cello Concerto, Macbeth Overture",52411,BBC Music Magazine
+56312,BBC Symphony Orchestra,1697901,1120114,"BBC Music, Volume 9, Number 7: Te Deum, Cello Concerto, Macbeth Overture",52411,BBC Music Magazine
+628605,Paul Watkins,1697901,1120114,"BBC Music, Volume 9, Number 7: Te Deum, Cello Concerto, Macbeth Overture",52411,BBC Music Magazine
+45435,Leoš Janáček,1715445,1699207,Janáček: Sinfonietta / Taras Bulba / Shostakovich: The Age of Gold (Suite),72738,London Classics
+10093,Дмитрий Дмитриевич Шостакович,1715445,1699207,Janáček: Sinfonietta / Taras Bulba / Shostakovich: The Age of Gold (Suite),72738,London Classics
+249553,Bernard Haitink,1715445,1699207,Janáček: Sinfonietta / Taras Bulba / Shostakovich: The Age of Gold (Suite),72738,London Classics
+32736,Edward Elgar,1731908,1613412,Enigma Variations / Falstaff Symphonic Study,973,EMI Digital
+71102,London Philharmonic Orchestra,1731908,1613412,Enigma Variations / Falstaff Symphonic Study,973,EMI Digital
+9716,Richard Strauss,2141097,1906690,Salome,1842,Chandos
+532706,Susan Bullock,2141097,1906690,Salome,1842,Chandos
+546156,Sally Burgess,2141097,1906690,Salome,1842,Chandos
+766268,John Graham Hall,2141097,1906690,Salome,1842,Chandos
+1181683,John Wegner,2141097,1906690,Salome,1842,Chandos
+130808,Philharmonia Orchestra,2141097,1906690,Salome,1842,Chandos
+10729,Antonín Dvořák,1739927,430464,Symphonic Variations / Scherzo capriccioso / Legends,1906,Supraphon
+10729,Antonín Dvořák,1739927,948606,Symphony no. 6 / The Golden Spinning Wheel,1906,Supraphon
+290356,Česká filharmonie,1739927,430464,Symphonic Variations / Scherzo capriccioso / Legends,1906,Supraphon
+290356,Česká filharmonie,1739927,948606,Symphony no. 6 / The Golden Spinning Wheel,1906,Supraphon
+45435,Leoš Janáček,1745034,1718510,Sinfonietta / Taras Bulba / Opera Preludes,18657,HMV Classics
+236231,Simon Rattle,1745034,1718510,Sinfonietta / Taras Bulba / Opera Preludes,18657,HMV Classics
+45435,Leoš Janáček,1747472,1347717,Sinfonietta / Four Preludes / Taras Bulba,18657,HMV Classics
+963751,Pro Arte Orchestra,1747472,1347717,Sinfonietta / Four Preludes / Taras Bulba,18657,HMV Classics
+1021,Ludwig van Beethoven,2034782,822701,"Piano Concertos 3, 4 & 5",5541,Linn Records
+1021,Ludwig van Beethoven,2034782,822701,"Piano Concertos 3, 4 & 5",5541,Linn Records
+253574,Scottish Chamber Orchestra,2034782,822701,"Piano Concertos 3, 4 & 5",5541,Linn Records
+253574,Scottish Chamber Orchestra,2034782,822701,"Piano Concertos 3, 4 & 5",5541,Linn Records
+607701,Artur Pizarro,2034782,822701,"Piano Concertos 3, 4 & 5",5541,Linn Records
+607701,Artur Pizarro,2034782,822701,"Piano Concertos 3, 4 & 5",5541,Linn Records
+1021,Ludwig van Beethoven,1766331,1356270,"Symphony no. 9 ""Choral""",62793,EMI
+1021,Ludwig van Beethoven,1766331,1356270,"Symphony no. 9 ""Choral""",21599,Classics for Pleasure
+391688,Royal Liverpool Philharmonic Orchestra,1766331,1356270,"Symphony no. 9 ""Choral""",62793,EMI
+391688,Royal Liverpool Philharmonic Orchestra,1766331,1356270,"Symphony no. 9 ""Choral""",21599,Classics for Pleasure
+391690,Royal Liverpool Philharmonic Choir,1766331,1356270,"Symphony no. 9 ""Choral""",62793,EMI
+391690,Royal Liverpool Philharmonic Choir,1766331,1356270,"Symphony no. 9 ""Choral""",21599,Classics for Pleasure
+11285,Wolfgang Amadeus Mozart,2024416,1027247,"Symphonies No. 32, 35, 39",53578,SKC Ltd.
+5550,English Chamber Orchestra,2024416,1027247,"Symphonies No. 32, 35, 39",53578,SKC Ltd.
+32736,Edward Elgar,1791664,589679,Cello Concerto / Enigma Variations,21350,Argo
+740915,Robert Cohen,1791664,589679,Cello Concerto / Enigma Variations,21350,Argo
+42495,Royal Philharmonic Orchestra,1791664,589679,Cello Concerto / Enigma Variations,21350,Argo
+83,Fryderyk Chopin,1796471,938903,Piano Concerto No. 2 / Grand Fantasia / Grande Polonaise,1546,Sony Classical
+448918,Orchestra of the Age of Enlightenment,1796471,938903,Piano Concerto No. 2 / Grand Fantasia / Grande Polonaise,1546,Sony Classical
+342142,Emanuel Ax,1796471,938903,Piano Concerto No. 2 / Grand Fantasia / Grande Polonaise,1546,Sony Classical
+32736,Edward Elgar,1797205,92346,Enigma Variations / Pomp & Circumstance Marches 1-5,-1,
+271581,Sir Adrian Boult,1797205,92346,Enigma Variations / Pomp & Circumstance Marches 1-5,-1,
+73502,George Frideric Handel,2046381,1839631,Le Messie,417,EMI Classics
+446004,Elizabeth Harwood,2046381,1839631,Le Messie,417,EMI Classics
+238340,Dame Janet Baker,2046381,1839631,Le Messie,417,EMI Classics
+462730,Paul Esswood,2046381,1839631,Le Messie,417,EMI Classics
+618685,Raimund Herincx,2046381,1839631,Le Messie,417,EMI Classics
+222194,Ambrosian Singers,2046381,1839631,Le Messie,417,EMI Classics
+5550,English Chamber Orchestra,2046381,1839631,Le Messie,417,EMI Classics
+23395,Игорь Фёдорович Стравинский,1825588,1265374,Orchestral Masterpieces: Pulcinella / Violin Concerto / Concerto for Strings / Dunbarton Oaks / Petrouchka,14391,Vanguard Classics
+677848,Australian Chamber Orchestra,1825588,1265374,Orchestral Masterpieces: Pulcinella / Violin Concerto / Concerto for Strings / Dunbarton Oaks / Petrouchka,14391,Vanguard Classics
+638764,Christopher Lyndon‐Gee,1825588,1265374,Orchestral Masterpieces: Pulcinella / Violin Concerto / Concerto for Strings / Dunbarton Oaks / Petrouchka,14391,Vanguard Classics
+414401,Utah Symphony,1825588,1265374,Orchestral Masterpieces: Pulcinella / Violin Concerto / Concerto for Strings / Dunbarton Oaks / Petrouchka,14391,Vanguard Classics
+414405,Maurice Abravanel,1825588,1265374,Orchestral Masterpieces: Pulcinella / Violin Concerto / Concerto for Strings / Dunbarton Oaks / Petrouchka,14391,Vanguard Classics
+404731,Zürcher Kammerorchester,1825588,1265374,Orchestral Masterpieces: Pulcinella / Violin Concerto / Concerto for Strings / Dunbarton Oaks / Petrouchka,14391,Vanguard Classics
+490367,Edmond de Stoutz,1825588,1265374,Orchestral Masterpieces: Pulcinella / Violin Concerto / Concerto for Strings / Dunbarton Oaks / Petrouchka,14391,Vanguard Classics
+12299,London Symphony Orchestra,1825588,1265374,Orchestral Masterpieces: Pulcinella / Violin Concerto / Concerto for Strings / Dunbarton Oaks / Petrouchka,14391,Vanguard Classics
+45435,Leoš Janáček,2032778,620236,Věc Makropulos,764,Decca Records
+335605,Elisabeth Söderström,2032778,620236,Věc Makropulos,764,Decca Records
+274471,Peter Dvorský,2032778,620236,Věc Makropulos,764,Decca Records
+443850,Beno Blachut,2032778,620236,Věc Makropulos,764,Decca Records
+1519458,Konzertvereinigung Wiener Staatsopernchor,2032778,620236,Věc Makropulos,764,Decca Records
+238351,Wiener Philharmoniker,2032778,620236,Věc Makropulos,764,Decca Records
+45435,Leoš Janáček,1851651,1493502,Glagolitic Mass / Sinfonietta / Piano Works / Songs,417,EMI Classics
+236231,Simon Rattle,1851651,1493502,Glagolitic Mass / Sinfonietta / Piano Works / Songs,417,EMI Classics
+45435,Leoš Janáček,1851653,518843,Capriccio / Concertino / Sonate / Presto / Conte,-1,
+481560,Михаил Рудый,1851653,518843,Capriccio / Concertino / Sonate / Presto / Conte,-1,
+404497,Pierre Amoyal,1851653,518843,Capriccio / Concertino / Sonate / Presto / Conte,-1,
+337089,Gary Hoffman,1851653,518843,Capriccio / Concertino / Sonate / Presto / Conte,-1,
+561820,Orchestre de l’Opéra national de Paris,1851653,518843,Capriccio / Concertino / Sonate / Presto / Conte,-1,
+169078,Carl Philipp Emanuel Bach,1852860,181689,Flute Concertos,-1,
+226510,Franz Anton Hoffmeister,1852860,181689,Flute Concertos,-1,
+1456678,Ingrid Dingfelder,1852860,181689,Flute Concertos,-1,
+5550,English Chamber Orchestra,1852860,181689,Flute Concertos,-1,
+10289,Camille Saint‐Saëns,1873698,1121942,Saint-Saëns: Cellokonzerte / Fauré: Élégie,743,Deutsche Grammophon
+10289,Camille Saint‐Saëns,1873698,1121942,Saint-Saëns: Cellokonzerte / Fauré: Élégie,66963,Deutsche Grammophon Resonance
+10342,Gabriel Fauré,1873698,1121942,Saint-Saëns: Cellokonzerte / Fauré: Élégie,743,Deutsche Grammophon
+10342,Gabriel Fauré,1873698,1121942,Saint-Saëns: Cellokonzerte / Fauré: Élégie,66963,Deutsche Grammophon Resonance
+136082,Édouard Lalo,1873698,1121942,Saint-Saëns: Cellokonzerte / Fauré: Élégie,743,Deutsche Grammophon
+136082,Édouard Lalo,1873698,1121942,Saint-Saëns: Cellokonzerte / Fauré: Élégie,66963,Deutsche Grammophon Resonance
+489809,Heinrich Schiff,1873698,1121942,Saint-Saëns: Cellokonzerte / Fauré: Élégie,743,Deutsche Grammophon
+489809,Heinrich Schiff,1873698,1121942,Saint-Saëns: Cellokonzerte / Fauré: Élégie,66963,Deutsche Grammophon Resonance
+130808,Philharmonia Orchestra,1873698,1121942,Saint-Saëns: Cellokonzerte / Fauré: Élégie,743,Deutsche Grammophon
+130808,Philharmonia Orchestra,1873698,1121942,Saint-Saëns: Cellokonzerte / Fauré: Élégie,66963,Deutsche Grammophon Resonance
+242448,W.S. Gilbert,1874375,1041840,Princess Ida / Pineapple Poll,764,Decca Records
+242448,W.S. Gilbert,1874375,1041840,Princess Ida / Pineapple Poll,72738,London Classics
+242448,W.S. Gilbert,1874375,1041840,Princess Ida / Pineapple Poll,426,London Records
+242448,W.S. Gilbert,1874375,1041840,Princess Ida / Pineapple Poll,764,Decca Records
+242448,W.S. Gilbert,1874375,1041840,Princess Ida / Pineapple Poll,764,Decca Records
+224030,Arthur Sullivan,1874375,1041840,Princess Ida / Pineapple Poll,764,Decca Records
+224030,Arthur Sullivan,1874375,1041840,Princess Ida / Pineapple Poll,72738,London Classics
+224030,Arthur Sullivan,1874375,1041840,Princess Ida / Pineapple Poll,426,London Records
+224030,Arthur Sullivan,1874375,1041840,Princess Ida / Pineapple Poll,764,Decca Records
+224030,Arthur Sullivan,1874375,1041840,Princess Ida / Pineapple Poll,764,Decca Records
+51806,The D’Oyly Carte Opera Company,1874375,1041840,Princess Ida / Pineapple Poll,764,Decca Records
+51806,The D’Oyly Carte Opera Company,1874375,1041840,Princess Ida / Pineapple Poll,72738,London Classics
+51806,The D’Oyly Carte Opera Company,1874375,1041840,Princess Ida / Pineapple Poll,426,London Records
+51806,The D’Oyly Carte Opera Company,1874375,1041840,Princess Ida / Pineapple Poll,764,Decca Records
+51806,The D’Oyly Carte Opera Company,1874375,1041840,Princess Ida / Pineapple Poll,764,Decca Records
+42495,Royal Philharmonic Orchestra,1874375,1041840,Princess Ida / Pineapple Poll,764,Decca Records
+42495,Royal Philharmonic Orchestra,1874375,1041840,Princess Ida / Pineapple Poll,72738,London Classics
+42495,Royal Philharmonic Orchestra,1874375,1041840,Princess Ida / Pineapple Poll,426,London Records
+42495,Royal Philharmonic Orchestra,1874375,1041840,Princess Ida / Pineapple Poll,764,Decca Records
+42495,Royal Philharmonic Orchestra,1874375,1041840,Princess Ida / Pineapple Poll,764,Decca Records
+389988,Sir Malcolm Sargent,1874375,1041840,Princess Ida / Pineapple Poll,764,Decca Records
+389988,Sir Malcolm Sargent,1874375,1041840,Princess Ida / Pineapple Poll,72738,London Classics
+389988,Sir Malcolm Sargent,1874375,1041840,Princess Ida / Pineapple Poll,426,London Records
+389988,Sir Malcolm Sargent,1874375,1041840,Princess Ida / Pineapple Poll,764,Decca Records
+389988,Sir Malcolm Sargent,1874375,1041840,Princess Ida / Pineapple Poll,764,Decca Records
+130808,Philharmonia Orchestra,1874375,1041840,Princess Ida / Pineapple Poll,764,Decca Records
+130808,Philharmonia Orchestra,1874375,1041840,Princess Ida / Pineapple Poll,72738,London Classics
+130808,Philharmonia Orchestra,1874375,1041840,Princess Ida / Pineapple Poll,426,London Records
+130808,Philharmonia Orchestra,1874375,1041840,Princess Ida / Pineapple Poll,764,Decca Records
+130808,Philharmonia Orchestra,1874375,1041840,Princess Ida / Pineapple Poll,764,Decca Records
+45435,Leoš Janáček,1915872,632917,Káťa Kabanová,764,Decca Records
+238351,Wiener Philharmoniker,1915872,632917,Káťa Kabanová,764,Decca Records
+45435,Leoš Janáček,1916007,574733,Sinfonietta / Taras Bulba / Lachian Dances / Suite for Strings / Mládí / Capriccio for Piano / Concertino,36314,Decca Classics
+22389,Sir Neville Marriner,1916007,574733,Sinfonietta / Taras Bulba / Lachian Dances / Suite for Strings / Mládí / Capriccio for Piano / Concertino,36314,Decca Classics
+443852,François Huybrechts,1916007,574733,Sinfonietta / Taras Bulba / Lachian Dances / Suite for Strings / Mládí / Capriccio for Piano / Concertino,36314,Decca Classics
+437554,David Atherton,1916007,574733,Sinfonietta / Taras Bulba / Lachian Dances / Suite for Strings / Mládí / Capriccio for Piano / Concertino,36314,Decca Classics
+10093,Дмитрий Дмитриевич Шостакович,1949299,1766182,"Violin Concertos no. 1, op. 77 & no. 2, op. 129",3825,Le Chant du Monde
+44835,Давид Фёдорович Ойстрах,1949299,1766182,"Violin Concertos no. 1, op. 77 & no. 2, op. 129",3825,Le Chant du Monde
+290356,Česká filharmonie,1949299,1766182,"Violin Concertos no. 1, op. 77 & no. 2, op. 129",3825,Le Chant du Monde
+336670,Евгений Александрович Мравинский,1949299,1766182,"Violin Concertos no. 1, op. 77 & no. 2, op. 129",3825,Le Chant du Monde
+989741,Jiří Tomášek,1949299,1766182,"Violin Concertos no. 1, op. 77 & no. 2, op. 129",3825,Le Chant du Monde
+334085,Symfonický orchestr Českého rozhlasu,1949299,1766182,"Violin Concertos no. 1, op. 77 & no. 2, op. 129",3825,Le Chant du Monde
+333697,Pinchas Zukerman,1954000,1770026,Poème / Introduction and Rondo Capriccioso / Concerto No. 5 / Polonaise in D,15899,Columbia Masterworks
+12299,London Symphony Orchestra,1954000,1770026,Poème / Introduction and Rondo Capriccioso / Concerto No. 5 / Polonaise in D,15899,Columbia Masterworks
+52995,Ernest Chausson,1954000,1770026,Poème / Introduction and Rondo Capriccioso / Concerto No. 5 / Polonaise in D,15899,Columbia Masterworks
+10289,Camille Saint‐Saëns,1954000,1770026,Poème / Introduction and Rondo Capriccioso / Concerto No. 5 / Polonaise in D,15899,Columbia Masterworks
+115890,Henri Vieuxtemps,1954000,1770026,Poème / Introduction and Rondo Capriccioso / Concerto No. 5 / Polonaise in D,15899,Columbia Masterworks
+51141,Henryk Wieniawski,1954000,1770026,Poème / Introduction and Rondo Capriccioso / Concerto No. 5 / Polonaise in D,15899,Columbia Masterworks
+45435,Leoš Janáček,1976746,1477978,Sinfonietta / Taras Bulba / The Cunning Little Vixen Suite,764,Decca Records
+238351,Wiener Philharmoniker,1976746,1477978,Sinfonietta / Taras Bulba / The Cunning Little Vixen Suite,764,Decca Records
+37545,Gaetano Donizetti,1976856,1784708,The Three Queens,67407,Westminster Records
+37545,Gaetano Donizetti,1976856,1784708,The Three Queens,58600,EMI Angel
+37545,Gaetano Donizetti,1976856,1784708,The Three Queens,2333,ABC Records
+37545,Gaetano Donizetti,1976856,1784708,The Three Queens,743,Deutsche Grammophon
+249425,Beverly Sills,1976856,1784708,The Three Queens,67407,Westminster Records
+249425,Beverly Sills,1976856,1784708,The Three Queens,58600,EMI Angel
+249425,Beverly Sills,1976856,1784708,The Three Queens,2333,ABC Records
+249425,Beverly Sills,1976856,1784708,The Three Queens,743,Deutsche Grammophon
+631827,Stuart Burrows,1976856,1784708,The Three Queens,67407,Westminster Records
+631827,Stuart Burrows,1976856,1784708,The Three Queens,58600,EMI Angel
+631827,Stuart Burrows,1976856,1784708,The Three Queens,2333,ABC Records
+631827,Stuart Burrows,1976856,1784708,The Three Queens,743,Deutsche Grammophon
+4773,Eileen Farrell,1976856,1784708,The Three Queens,67407,Westminster Records
+4773,Eileen Farrell,1976856,1784708,The Three Queens,58600,EMI Angel
+4773,Eileen Farrell,1976856,1784708,The Three Queens,2333,ABC Records
+4773,Eileen Farrell,1976856,1784708,The Three Queens,743,Deutsche Grammophon
+1188645,Róbert Ilosfalvy,1976856,1784708,The Three Queens,67407,Westminster Records
+1188645,Róbert Ilosfalvy,1976856,1784708,The Three Queens,58600,EMI Angel
+1188645,Róbert Ilosfalvy,1976856,1784708,The Three Queens,2333,ABC Records
+1188645,Róbert Ilosfalvy,1976856,1784708,The Three Queens,743,Deutsche Grammophon
+12299,London Symphony Orchestra,1976856,1784708,The Three Queens,67407,Westminster Records
+12299,London Symphony Orchestra,1976856,1784708,The Three Queens,58600,EMI Angel
+12299,London Symphony Orchestra,1976856,1784708,The Three Queens,2333,ABC Records
+12299,London Symphony Orchestra,1976856,1784708,The Three Queens,743,Deutsche Grammophon
+366769,Julius Rudel,1976856,1784708,The Three Queens,67407,Westminster Records
+366769,Julius Rudel,1976856,1784708,The Three Queens,58600,EMI Angel
+366769,Julius Rudel,1976856,1784708,The Three Queens,2333,ABC Records
+366769,Julius Rudel,1976856,1784708,The Three Queens,743,Deutsche Grammophon
+71102,London Philharmonic Orchestra,1976856,1784708,The Three Queens,67407,Westminster Records
+71102,London Philharmonic Orchestra,1976856,1784708,The Three Queens,58600,EMI Angel
+71102,London Philharmonic Orchestra,1976856,1784708,The Three Queens,2333,ABC Records
+71102,London Philharmonic Orchestra,1976856,1784708,The Three Queens,743,Deutsche Grammophon
+650193,Aldo Ceccato,1976856,1784708,The Three Queens,67407,Westminster Records
+650193,Aldo Ceccato,1976856,1784708,The Three Queens,58600,EMI Angel
+650193,Aldo Ceccato,1976856,1784708,The Three Queens,2333,ABC Records
+650193,Aldo Ceccato,1976856,1784708,The Three Queens,743,Deutsche Grammophon
+42495,Royal Philharmonic Orchestra,1976856,1784708,The Three Queens,67407,Westminster Records
+42495,Royal Philharmonic Orchestra,1976856,1784708,The Three Queens,58600,EMI Angel
+42495,Royal Philharmonic Orchestra,1976856,1784708,The Three Queens,2333,ABC Records
+42495,Royal Philharmonic Orchestra,1976856,1784708,The Three Queens,743,Deutsche Grammophon
+45435,Leoš Janáček,2027384,580071,From the House of the Dead,764,Decca Records
+45435,Leoš Janáček,2027384,580071,From the House of the Dead,36314,Decca Classics
+1519458,Konzertvereinigung Wiener Staatsopernchor,2027384,580071,From the House of the Dead,764,Decca Records
+1519458,Konzertvereinigung Wiener Staatsopernchor,2027384,580071,From the House of the Dead,36314,Decca Classics
+238351,Wiener Philharmoniker,2027384,580071,From the House of the Dead,764,Decca Records
+238351,Wiener Philharmoniker,2027384,580071,From the House of the Dead,36314,Decca Classics
+3259,Giuseppe Verdi,2045416,913375,La traviata,1842,Chandos
+356390,Valerie Masterson,2045416,913375,La traviata,1842,Chandos
+677042,John Brecknock,2045416,913375,La traviata,1842,Chandos
+455606,Christian du Plessis,2045416,913375,La traviata,1842,Chandos
+532700,English National Opera Orchestra,2045416,913375,La traviata,1842,Chandos
+532701,English National Opera Chorus,2045416,913375,La traviata,1842,Chandos
+11285,Wolfgang Amadeus Mozart,1996445,1045775,The Magic Flute,1842,Chandos
+451970,Rebecca Evans,1996445,1045775,The Magic Flute,1842,Chandos
+592549,Élizabeth Vidal,1996445,1045775,The Magic Flute,1842,Chandos
+1462639,Majella Cullagh,1996445,1045775,The Magic Flute,1842,Chandos
+960483,Sarah Fox,1996445,1045775,The Magic Flute,1842,Chandos
+504283,Diana Montague,1996445,1045775,The Magic Flute,1842,Chandos
+109878,Lesley Garrett,1996445,1045775,The Magic Flute,1842,Chandos
+646676,Barry Banks,1996445,1045775,The Magic Flute,1842,Chandos
+444301,Simon Keenlyside,1996445,1045775,The Magic Flute,1842,Chandos
+239739,John Tomlinson,1996445,1045775,The Magic Flute,1842,Chandos
+71102,London Philharmonic Orchestra,1996445,1045775,The Magic Flute,1842,Chandos
+12438,Franz Schubert,2056829,1847002,"Symphonies 5, 8 & 9",4743,Virgin Veritas
+448918,Orchestra of the Age of Enlightenment,2056829,1847002,"Symphonies 5, 8 & 9",4743,Virgin Veritas
+11285,Wolfgang Amadeus Mozart,2057613,1334260,Piano Concertos No. 20 & No. 22,38982,Telarc Digital
+11285,Wolfgang Amadeus Mozart,2057613,1172577,Piano Concertos nos. 19 & 23 / Rondo,38982,Telarc Digital
+674133,John O’Conor,2057613,1334260,Piano Concertos No. 20 & No. 22,38982,Telarc Digital
+674133,John O’Conor,2057613,1172577,Piano Concertos nos. 19 & 23 / Rondo,38982,Telarc Digital
+253574,Scottish Chamber Orchestra,2057613,1334260,Piano Concertos No. 20 & No. 22,38982,Telarc Digital
+253574,Scottish Chamber Orchestra,2057613,1172577,Piano Concertos nos. 19 & 23 / Rondo,38982,Telarc Digital
+11285,Wolfgang Amadeus Mozart,2057616,1098459,Piano Concertos no. 21 & no. 27,38982,Telarc Digital
+674133,John O’Conor,2057616,1098459,Piano Concertos no. 21 & no. 27,38982,Telarc Digital
+253574,Scottish Chamber Orchestra,2057616,1098459,Piano Concertos no. 21 & no. 27,38982,Telarc Digital
+12439,Benjamin Britten,2067086,1758669,Gloriana,36314,Decca Classics
+846741,Josephine Barstow,2067086,1758669,Gloriana,36314,Decca Classics
+239681,Della Jones,2067086,1758669,Gloriana,36314,Decca Classics
+488578,Yvonne Kenny,2067086,1758669,Gloriana,36314,Decca Classics
+491078,Philip Langridge,2067086,1758669,Gloriana,36314,Decca Classics
+490828,Orchestra of the Welsh National Opera,2067086,1758669,Gloriana,36314,Decca Classics
+490827,Chorus of the Welsh National Opera,2067086,1758669,Gloriana,36314,Decca Classics
+675562,Alan Opie,2067086,1758669,Gloriana,36314,Decca Classics
+239729,Jonathan Summers,2067086,1758669,Gloriana,36314,Decca Classics
+37544,Carl Maria von Weber,2070525,106392,The Best of Weber,1205,Philips
+282964,Berlin Philharmonic Octet,2070525,106392,The Best of Weber,1205,Philips
+132084,Koninklijk Concertgebouworkest,2070525,106392,The Best of Weber,1205,Philips
+249553,Bernard Haitink,2070525,106392,The Best of Weber,1205,Philips
+12299,London Symphony Orchestra,2070525,106392,The Best of Weber,1205,Philips
+130808,Philharmonia Orchestra,2070525,106392,The Best of Weber,1205,Philips
+444940,Wilfried Böttcher,2070525,106392,The Best of Weber,1205,Philips
+254671,Staatskapelle Dresden,2070525,106392,The Best of Weber,1205,Philips
+282963,Kurt Sanderling,2070525,106392,The Best of Weber,1205,Philips
+10293,Gustav Mahler,2083134,1865916,Symphony no. 4,16197,Signum Classics
+130808,Philharmonia Orchestra,2083134,1865916,Symphony no. 4,16197,Signum Classics
+242448,W.S. Gilbert,2083945,162965,The Pirates of Penzance,38982,Telarc Digital
+242448,W.S. Gilbert,2083945,162972,H. M. S. Pinafore,38982,Telarc Digital
+224030,Arthur Sullivan,2083945,162965,The Pirates of Penzance,38982,Telarc Digital
+224030,Arthur Sullivan,2083945,162972,H. M. S. Pinafore,38982,Telarc Digital
+490828,Orchestra of the Welsh National Opera,2083945,162965,The Pirates of Penzance,38982,Telarc Digital
+490828,Orchestra of the Welsh National Opera,2083945,162972,H. M. S. Pinafore,38982,Telarc Digital
+490827,Chorus of the Welsh National Opera,2083945,162965,The Pirates of Penzance,38982,Telarc Digital
+490827,Chorus of the Welsh National Opera,2083945,162972,H. M. S. Pinafore,38982,Telarc Digital
+242448,W.S. Gilbert,2083948,162981,The Yeomen of the Guard / Trial by Jury,38982,Telarc Digital
+224030,Arthur Sullivan,2083948,162981,The Yeomen of the Guard / Trial by Jury,38982,Telarc Digital
+490828,Orchestra of the Welsh National Opera,2083948,162981,The Yeomen of the Guard / Trial by Jury,38982,Telarc Digital
+490827,Chorus of the Welsh National Opera,2083948,162981,The Yeomen of the Guard / Trial by Jury,38982,Telarc Digital
+10729,Antonín Dvořák,2142839,1911326,Symphony no. 9 “From the New World” / Symphony no. 7,18004,EMI Eminence
+71102,London Philharmonic Orchestra,2142839,1911326,Symphony no. 9 “From the New World” / Symphony no. 7,18004,EMI Eminence
+94736,Josef Suk,2095544,1875510,Asrael,1906,Supraphon
+94736,Josef Suk,2095544,2008557,Summer Tale / Fantastic Scherzo,36314,Decca Classics
+290356,Česká filharmonie,2095544,1875510,Asrael,1906,Supraphon
+290356,Česká filharmonie,2095544,2008557,Summer Tale / Fantastic Scherzo,36314,Decca Classics
+122653,Пётр Ильич Чайковский,2107049,923622,1812 Overture,3652,Music for Pleasure
+71102,London Philharmonic Orchestra,2107049,923622,1812 Overture,3652,Music for Pleasure
+321981,Walter Süsskind,2107049,923622,1812 Overture,3652,Music for Pleasure
+913974,Arthur Davison,2107049,923622,1812 Overture,3652,Music for Pleasure
+10729,Antonín Dvořák,2119937,615751,"Symphonies Nos. 8, 9",1906,Supraphon
+326720,Symfonický orchestr hlavního města Prahy FOK,2119937,615751,"Symphonies Nos. 8, 9",1906,Supraphon
+10729,Antonín Dvořák,2121544,1893946,Rusalka,72738,London Classics
+10729,Antonín Dvořák,2121544,1893946,Rusalka,36314,Decca Classics
+290356,Česká filharmonie,2121544,1893946,Rusalka,72738,London Classics
+290356,Česká filharmonie,2121544,1893946,Rusalka,36314,Decca Classics
+119255,Renée Fleming,2121544,1893946,Rusalka,72738,London Classics
+119255,Renée Fleming,2121544,1893946,Rusalka,36314,Decca Classics
+443181,Ben Heppner,2121544,1893946,Rusalka,72738,London Classics
+443181,Ben Heppner,2121544,1893946,Rusalka,36314,Decca Classics
+809310,Dolora Zajick,2121544,1893946,Rusalka,72738,London Classics
+809310,Dolora Zajick,2121544,1893946,Rusalka,36314,Decca Classics
+505223,Franz Hawlata,2121544,1893946,Rusalka,72738,London Classics
+505223,Franz Hawlata,2121544,1893946,Rusalka,36314,Decca Classics
+474637,Eva Urbanová,2121544,1893946,Rusalka,72738,London Classics
+474637,Eva Urbanová,2121544,1893946,Rusalka,36314,Decca Classics
+77933,Alexandre Luigini,2121593,1218690,Ballet Egyptien / Nutcracker Suite etc.,2757,His Master’s Voice
+122653,Пётр Ильич Чайковский,2121593,1218690,Ballet Egyptien / Nutcracker Suite etc.,2757,His Master’s Voice
+130808,Philharmonia Orchestra,2121593,1218690,Ballet Egyptien / Nutcracker Suite etc.,2757,His Master’s Voice
+801541,Николай Андреевич Малько,2121593,1218690,Ballet Egyptien / Nutcracker Suite etc.,2757,His Master’s Voice
+10729,Antonín Dvořák,2122315,911280,"Dvořák: Cello Concerto, op. 104 / Dohnányi: Konzertstück for Cello & Orchestra",1842,Chandos
+10729,Antonín Dvořák,2122315,911280,"Dvořák: Cello Concerto, op. 104 / Dohnányi: Konzertstück for Cello & Orchestra",1842,Chandos
+680662,Ernő Dohnányi,2122315,911280,"Dvořák: Cello Concerto, op. 104 / Dohnányi: Konzertstück for Cello & Orchestra",1842,Chandos
+680662,Ernő Dohnányi,2122315,911280,"Dvořák: Cello Concerto, op. 104 / Dohnányi: Konzertstück for Cello & Orchestra",1842,Chandos
+340780,Raphael Wallfisch,2122315,911280,"Dvořák: Cello Concerto, op. 104 / Dohnányi: Konzertstück for Cello & Orchestra",1842,Chandos
+340780,Raphael Wallfisch,2122315,911280,"Dvořák: Cello Concerto, op. 104 / Dohnányi: Konzertstück for Cello & Orchestra",1842,Chandos
+12299,London Symphony Orchestra,2122315,911280,"Dvořák: Cello Concerto, op. 104 / Dohnányi: Konzertstück for Cello & Orchestra",1842,Chandos
+12299,London Symphony Orchestra,2122315,911280,"Dvořák: Cello Concerto, op. 104 / Dohnányi: Konzertstück for Cello & Orchestra",1842,Chandos
+171234,Frederick Delius,2162719,1918295,Delius Edition,36314,Decca Classics
+122653,Пётр Ильич Чайковский,2169832,1929770,Rococo Variations,1864,RCA Red Seal
+46612,Ofra Harnoy,2169832,1929770,Rococo Variations,1864,RCA Red Seal
+71102,London Philharmonic Orchestra,2169832,1929770,Rococo Variations,1864,RCA Red Seal
+12438,Franz Schubert,2171066,1934649,Symphony no. 10 and other unfinished symphonies,388,Hyperion
+877795,Brian Newbould,2171066,1934649,Symphony no. 10 and other unfinished symphonies,388,Hyperion
+253574,Scottish Chamber Orchestra,2171066,1934649,Symphony no. 10 and other unfinished symphonies,388,Hyperion
+10289,Camille Saint‐Saëns,2181835,1944692,"Saint-Saens: “Wedding Cake” Caprice valse, op. 76 / Litolff: Scherzo from Concerto symphonique, op. 102",2695,Pye Records
+681458,Henry Litolff,2181835,1944692,"Saint-Saens: “Wedding Cake” Caprice valse, op. 76 / Litolff: Scherzo from Concerto symphonique, op. 102",2695,Pye Records
+616088,Joseph Cooper,2181835,1944692,"Saint-Saens: “Wedding Cake” Caprice valse, op. 76 / Litolff: Scherzo from Concerto symphonique, op. 102",2695,Pye Records
+963751,Pro Arte Orchestra,2181835,1944692,"Saint-Saens: “Wedding Cake” Caprice valse, op. 76 / Litolff: Scherzo from Concerto symphonique, op. 102",2695,Pye Records
+166552,John Field,2183402,1945828,Piano Concertos no. 2 & no. 3,38982,Telarc Digital
+674133,John O’Conor,2183402,1945828,Piano Concertos no. 2 & no. 3,38982,Telarc Digital
+253574,Scottish Chamber Orchestra,2183402,1945828,Piano Concertos no. 2 & no. 3,38982,Telarc Digital
+87893,Henry Purcell,2187892,1688085,Dido and Aeneas / Ode on St. Cecilia’s Day,3152,Archiv Produktion
+87893,Henry Purcell,2187892,1688085,Dido and Aeneas / Ode on St. Cecilia’s Day,743,Deutsche Grammophon
+395325,Tatiana Troyanos,2187892,1688085,Dido and Aeneas / Ode on St. Cecilia’s Day,3152,Archiv Produktion
+395325,Tatiana Troyanos,2187892,1688085,Dido and Aeneas / Ode on St. Cecilia’s Day,743,Deutsche Grammophon
+442576,Barry McDaniel,2187892,1688085,Dido and Aeneas / Ode on St. Cecilia’s Day,3152,Archiv Produktion
+442576,Barry McDaniel,2187892,1688085,Dido and Aeneas / Ode on St. Cecilia’s Day,743,Deutsche Grammophon
+1065296,Simon Woolf,2187892,1688085,Dido and Aeneas / Ode on St. Cecilia’s Day,3152,Archiv Produktion
+1065296,Simon Woolf,2187892,1688085,Dido and Aeneas / Ode on St. Cecilia’s Day,743,Deutsche Grammophon
+462730,Paul Esswood,2187892,1688085,Dido and Aeneas / Ode on St. Cecilia’s Day,3152,Archiv Produktion
+462730,Paul Esswood,2187892,1688085,Dido and Aeneas / Ode on St. Cecilia’s Day,743,Deutsche Grammophon
+391683,Alexander Young,2187892,1688085,Dido and Aeneas / Ode on St. Cecilia’s Day,3152,Archiv Produktion
+391683,Alexander Young,2187892,1688085,Dido and Aeneas / Ode on St. Cecilia’s Day,743,Deutsche Grammophon
+920856,Michael Rippon,2187892,1688085,Dido and Aeneas / Ode on St. Cecilia’s Day,3152,Archiv Produktion
+920856,Michael Rippon,2187892,1688085,Dido and Aeneas / Ode on St. Cecilia’s Day,743,Deutsche Grammophon
+254605,John Shirley‐Quirk,2187892,1688085,Dido and Aeneas / Ode on St. Cecilia’s Day,3152,Archiv Produktion
+254605,John Shirley‐Quirk,2187892,1688085,Dido and Aeneas / Ode on St. Cecilia’s Day,743,Deutsche Grammophon
+20157,Jean Sibelius,2190855,1950985,"The Swan of Tuonela (Legends, Op. 22 No. 2) / Symphony No.2 in D, Op. 43",1551,IMP Classics
+12299,London Symphony Orchestra,2190855,1950985,"The Swan of Tuonela (Legends, Op. 22 No. 2) / Symphony No.2 in D, Op. 43",1551,IMP Classics
+46261,Bohuslav Martinů,2206603,512931,"Double Concerto, etc.",-1,
+334085,Symfonický orchestr Českého rozhlasu,2206603,512931,"Double Concerto, etc.",-1,
+122653,Пётр Ильич Чайковский,2226780,1979668,Eugene Onegin,417,EMI Classics
+36504,Kiri Te Kanawa,2226780,1979668,Eugene Onegin,417,EMI Classics
+124937,Thomas Hampson,2226780,1979668,Eugene Onegin,417,EMI Classics
+787971,Neil Rosenshein,2226780,1979668,Eugene Onegin,417,EMI Classics
+712286,John Connell,2226780,1979668,Eugene Onegin,417,EMI Classics
+238337,Nicolai Gedda,2226780,1979668,Eugene Onegin,417,EMI Classics
+490828,Orchestra of the Welsh National Opera,2226780,1979668,Eugene Onegin,417,EMI Classics
+490827,Chorus of the Welsh National Opera,2226780,1979668,Eugene Onegin,417,EMI Classics
+242448,W.S. Gilbert,2425861,2165996,198x-xx-xx: Princess Ida: [unknown location],-1,
+224030,Arthur Sullivan,2425861,2165996,198x-xx-xx: Princess Ida: [unknown location],-1,
+831634,BBC Concert Orchestra,2425861,2165996,198x-xx-xx: Princess Ida: [unknown location],-1,
+389034,BBC Singers,2425861,2165996,198x-xx-xx: Princess Ida: [unknown location],-1,
+491078,Philip Langridge,2425861,2165996,198x-xx-xx: Princess Ida: [unknown location],-1,
+73502,George Frideric Handel,2333725,2081636,Judas Maccabaeus Oratorio,3152,Archiv Produktion
+87893,Henry Purcell,2335622,2083207,Ode On St. Cecilia's Day (1692),3152,Archiv Produktion
+1065296,Simon Woolf,2335622,2083207,Ode On St. Cecilia's Day (1692),3152,Archiv Produktion
+462730,Paul Esswood,2335622,2083207,Ode On St. Cecilia's Day (1692),3152,Archiv Produktion
+1396997,Roland Tatnell,2335622,2083207,Ode On St. Cecilia's Day (1692),3152,Archiv Produktion
+391683,Alexander Young,2335622,2083207,Ode On St. Cecilia's Day (1692),3152,Archiv Produktion
+920856,Michael Rippon,2335622,2083207,Ode On St. Cecilia's Day (1692),3152,Archiv Produktion
+254605,John Shirley‐Quirk,2335622,2083207,Ode On St. Cecilia's Day (1692),3152,Archiv Produktion
+758112,Tiffin Boys’ Choir,2335622,2083207,Ode On St. Cecilia's Day (1692),3152,Archiv Produktion
+222194,Ambrosian Singers,2335622,2083207,Ode On St. Cecilia's Day (1692),3152,Archiv Produktion
+5550,English Chamber Orchestra,2335622,2083207,Ode On St. Cecilia's Day (1692),3152,Archiv Produktion
+427409,Havergal Brian,2341126,2087295,Symphony nos. 7-9 & 31 / The Tinker's Wedding,417,EMI Classics
+391688,Royal Liverpool Philharmonic Orchestra,2341126,2087295,Symphony nos. 7-9 & 31 / The Tinker's Wedding,417,EMI Classics
+352446,Sir Charles Groves,2341126,2087295,Symphony nos. 7-9 & 31 / The Tinker's Wedding,417,EMI Classics
+12439,Benjamin Britten,2354331,2097489,Britten Conducts Britten: Operas II: A Midsummer Night's Dream / The Rape Of Lucretia / The Turn Of The Screw / Bedford: Death In Venice / Mackerras: Gloriana,764,Decca Records
+367467,Steuart Bedford,2354331,2097489,Britten Conducts Britten: Operas II: A Midsummer Night's Dream / The Rape Of Lucretia / The Turn Of The Screw / Bedford: Death In Venice / Mackerras: Gloriana,764,Decca Records
+73502,George Frideric Handel,2364597,1178537,Water Music / Music for the Royal Fireworks,29835,Seraphim
+186223,Yehudi Menuhin,2364597,1178537,Water Music / Music for the Royal Fireworks,29835,Seraphim
+46947,Hector Berlioz,2517709,187366,Le Carnaval Romain / Symphonie Fantastique,93094,The Royal Philharmonic Collection
+46947,Hector Berlioz,2517709,187366,Le Carnaval Romain / Symphonie Fantastique,87608,Tring
+46947,Hector Berlioz,2517709,187366,Le Carnaval Romain / Symphonie Fantastique,41999,Durkin Hayes
+46947,Hector Berlioz,2517709,187366,Le Carnaval Romain / Symphonie Fantastique,3094,Membran Music Ltd.
+42495,Royal Philharmonic Orchestra,2517709,187366,Le Carnaval Romain / Symphonie Fantastique,93094,The Royal Philharmonic Collection
+42495,Royal Philharmonic Orchestra,2517709,187366,Le Carnaval Romain / Symphonie Fantastique,87608,Tring
+42495,Royal Philharmonic Orchestra,2517709,187366,Le Carnaval Romain / Symphonie Fantastique,41999,Durkin Hayes
+42495,Royal Philharmonic Orchestra,2517709,187366,Le Carnaval Romain / Symphonie Fantastique,3094,Membran Music Ltd.
+224030,Arthur Sullivan,2379955,2117292,Pineapple Poll / Savoy Opera Overtures,417,EMI Classics
+42495,Royal Philharmonic Orchestra,2379955,2117292,Pineapple Poll / Savoy Opera Overtures,417,EMI Classics
+130808,Philharmonia Orchestra,2379955,2117292,Pineapple Poll / Savoy Opera Overtures,417,EMI Classics
+122653,Пётр Ильич Чайковский,2543214,1604206,1812 Overture,21599,Classics for Pleasure
+122653,Пётр Ильич Чайковский,2543214,1604206,1812 Overture,21599,Classics for Pleasure
+122653,Пётр Ильич Чайковский,2543214,1604206,1812 Overture,21599,Classics for Pleasure
+122653,Пётр Ильич Чайковский,2543214,1604206,1812 Overture,2757,His Master’s Voice
+122653,Пётр Ильич Чайковский,2543214,1604206,1812 Overture,21599,Classics for Pleasure
+71102,London Philharmonic Orchestra,2543214,1604206,1812 Overture,21599,Classics for Pleasure
+71102,London Philharmonic Orchestra,2543214,1604206,1812 Overture,21599,Classics for Pleasure
+71102,London Philharmonic Orchestra,2543214,1604206,1812 Overture,21599,Classics for Pleasure
+71102,London Philharmonic Orchestra,2543214,1604206,1812 Overture,2757,His Master’s Voice
+71102,London Philharmonic Orchestra,2543214,1604206,1812 Overture,21599,Classics for Pleasure
+483290,The Band of the Welsh Guards,2543214,1604206,1812 Overture,21599,Classics for Pleasure
+483290,The Band of the Welsh Guards,2543214,1604206,1812 Overture,21599,Classics for Pleasure
+483290,The Band of the Welsh Guards,2543214,1604206,1812 Overture,21599,Classics for Pleasure
+483290,The Band of the Welsh Guards,2543214,1604206,1812 Overture,2757,His Master’s Voice
+483290,The Band of the Welsh Guards,2543214,1604206,1812 Overture,21599,Classics for Pleasure
+32513,Robert Schumann,2538824,912910,"BBC Music, Volume 18, Number 5: Symphony no. 4 / Konzertstück for Four Horns",52411,BBC Music Magazine
+124934,BBC Philharmonic,2538824,912910,"BBC Music, Volume 18, Number 5: Symphony no. 4 / Konzertstück for Four Horns",52411,BBC Music Magazine
+493370,David Pyatt,2538824,912910,"BBC Music, Volume 18, Number 5: Symphony no. 4 / Konzertstück for Four Horns",52411,BBC Music Magazine
+422425,Michael Thompson,2538824,912910,"BBC Music, Volume 18, Number 5: Symphony no. 4 / Konzertstück for Four Horns",52411,BBC Music Magazine
+676660,Martin Owen,2538824,912910,"BBC Music, Volume 18, Number 5: Symphony no. 4 / Konzertstück for Four Horns",52411,BBC Music Magazine
+676661,Cormac Ó hAodaín,2538824,912910,"BBC Music, Volume 18, Number 5: Symphony no. 4 / Konzertstück for Four Horns",52411,BBC Music Magazine
+510664,Gianandrea Noseda,2538824,912910,"BBC Music, Volume 18, Number 5: Symphony no. 4 / Konzertstück for Four Horns",52411,BBC Music Magazine
+235974,Jerry Hadley,2468043,2201214,Cosi fan tutte,-1,
+449146,Felicity Lott,2468043,2201214,Cosi fan tutte,-1,
+442488,Alessandro Corbelli,2468043,2201214,Cosi fan tutte,-1,
+23395,Игорь Фёдорович Стравинский,2471113,2203617,"TuTTi, Nr. 12",417,EMI Classics
+23395,Игорь Фёдорович Стравинский,2471113,2203617,"TuTTi, Nr. 12",1546,Sony Classical
+23395,Игорь Фёдорович Стравинский,2471113,2203617,"TuTTi, Nr. 12",178995,TuTTi
+34478,City of Birmingham Symphony Orchestra,2471113,2203617,"TuTTi, Nr. 12",417,EMI Classics
+34478,City of Birmingham Symphony Orchestra,2471113,2203617,"TuTTi, Nr. 12",1546,Sony Classical
+34478,City of Birmingham Symphony Orchestra,2471113,2203617,"TuTTi, Nr. 12",178995,TuTTi
+236231,Simon Rattle,2471113,2203617,"TuTTi, Nr. 12",417,EMI Classics
+236231,Simon Rattle,2471113,2203617,"TuTTi, Nr. 12",1546,Sony Classical
+236231,Simon Rattle,2471113,2203617,"TuTTi, Nr. 12",178995,TuTTi
+4473,Benny Goodman,2471113,2203617,"TuTTi, Nr. 12",417,EMI Classics
+4473,Benny Goodman,2471113,2203617,"TuTTi, Nr. 12",1546,Sony Classical
+4473,Benny Goodman,2471113,2203617,"TuTTi, Nr. 12",178995,TuTTi
+1851545,Columbia Jazz Ensemble,2471113,2203617,"TuTTi, Nr. 12",417,EMI Classics
+1851545,Columbia Jazz Ensemble,2471113,2203617,"TuTTi, Nr. 12",1546,Sony Classical
+1851545,Columbia Jazz Ensemble,2471113,2203617,"TuTTi, Nr. 12",178995,TuTTi
+23395,Игорь Фёдорович Стравинский,2471113,2203617,"TuTTi, Nr. 12",417,EMI Classics
+23395,Игорь Фёдорович Стравинский,2471113,2203617,"TuTTi, Nr. 12",1546,Sony Classical
+23395,Игорь Фёдорович Стравинский,2471113,2203617,"TuTTi, Nr. 12",178995,TuTTi
+71102,London Philharmonic Orchestra,2471113,2203617,"TuTTi, Nr. 12",417,EMI Classics
+71102,London Philharmonic Orchestra,2471113,2203617,"TuTTi, Nr. 12",1546,Sony Classical
+71102,London Philharmonic Orchestra,2471113,2203617,"TuTTi, Nr. 12",178995,TuTTi
+161820,London Sinfonietta,2471113,2203617,"TuTTi, Nr. 12",417,EMI Classics
+161820,London Sinfonietta,2471113,2203617,"TuTTi, Nr. 12",1546,Sony Classical
+161820,London Sinfonietta,2471113,2203617,"TuTTi, Nr. 12",178995,TuTTi
+212280,Esa‐Pekka Salonen,2471113,2203617,"TuTTi, Nr. 12",417,EMI Classics
+212280,Esa‐Pekka Salonen,2471113,2203617,"TuTTi, Nr. 12",1546,Sony Classical
+212280,Esa‐Pekka Salonen,2471113,2203617,"TuTTi, Nr. 12",178995,TuTTi
+41094,New York Philharmonic,2471113,2203617,"TuTTi, Nr. 12",417,EMI Classics
+41094,New York Philharmonic,2471113,2203617,"TuTTi, Nr. 12",1546,Sony Classical
+41094,New York Philharmonic,2471113,2203617,"TuTTi, Nr. 12",178995,TuTTi
+37740,Leonard Bernstein,2471113,2203617,"TuTTi, Nr. 12",417,EMI Classics
+37740,Leonard Bernstein,2471113,2203617,"TuTTi, Nr. 12",1546,Sony Classical
+37740,Leonard Bernstein,2471113,2203617,"TuTTi, Nr. 12",178995,TuTTi
+42495,Royal Philharmonic Orchestra,2483149,2067553,50th Anniversary Celebration,14553,Tring International PLC
+42495,Royal Philharmonic Orchestra,2483149,2067553,50th Anniversary Celebration,-1,
+42495,Royal Philharmonic Orchestra,2483149,2067553,50th Anniversary Celebration,14553,Tring International PLC
+400212,Sir Thomas Beecham,2483149,2067553,50th Anniversary Celebration,14553,Tring International PLC
+400212,Sir Thomas Beecham,2483149,2067553,50th Anniversary Celebration,-1,
+400212,Sir Thomas Beecham,2483149,2067553,50th Anniversary Celebration,14553,Tring International PLC
+420275,Sir Alexander Gibson,2483149,2067553,50th Anniversary Celebration,14553,Tring International PLC
+420275,Sir Alexander Gibson,2483149,2067553,50th Anniversary Celebration,-1,
+420275,Sir Alexander Gibson,2483149,2067553,50th Anniversary Celebration,14553,Tring International PLC
+254473,Vernon Handley,2483149,2067553,50th Anniversary Celebration,14553,Tring International PLC
+254473,Vernon Handley,2483149,2067553,50th Anniversary Celebration,-1,
+254473,Vernon Handley,2483149,2067553,50th Anniversary Celebration,14553,Tring International PLC
+186223,Yehudi Menuhin,2483149,2067553,50th Anniversary Celebration,14553,Tring International PLC
+186223,Yehudi Menuhin,2483149,2067553,50th Anniversary Celebration,-1,
+186223,Yehudi Menuhin,2483149,2067553,50th Anniversary Celebration,14553,Tring International PLC
+4510,André Previn,2483149,2067553,50th Anniversary Celebration,14553,Tring International PLC
+4510,André Previn,2483149,2067553,50th Anniversary Celebration,-1,
+4510,André Previn,2483149,2067553,50th Anniversary Celebration,14553,Tring International PLC
+45435,Leoš Janáček,2541407,812749,"BBC Music, Volume 17, Number 6: Sinfonietta / Glagolitic Mass",52411,BBC Music Magazine
+124934,BBC Philharmonic,2541407,812749,"BBC Music, Volume 17, Number 6: Sinfonietta / Glagolitic Mass",52411,BBC Music Magazine
+186618,BBC National Orchestra of Wales,2541407,812749,"BBC Music, Volume 17, Number 6: Sinfonietta / Glagolitic Mass",52411,BBC Music Magazine
+617150,BBC National Chorus of Wales,2541407,812749,"BBC Music, Volume 17, Number 6: Sinfonietta / Glagolitic Mass",52411,BBC Music Magazine
+1887955,Bristol Choral Society,2541407,812749,"BBC Music, Volume 17, Number 6: Sinfonietta / Glagolitic Mass",52411,BBC Music Magazine
+81420,Richard Hickox,2541407,812749,"BBC Music, Volume 17, Number 6: Sinfonietta / Glagolitic Mass",52411,BBC Music Magazine
+73502,George Frideric Handel,2488280,1220132,Water & Fireworks Music / Coronation Anthems,-1,
+73502,George Frideric Handel,2488280,1220132,Water & Fireworks Music / Coronation Anthems,417,EMI Classics
+12299,London Symphony Orchestra,2488280,1220132,Water & Fireworks Music / Coronation Anthems,-1,
+12299,London Symphony Orchestra,2488280,1220132,Water & Fireworks Music / Coronation Anthems,417,EMI Classics
+479269,Pražský komorní orchestr,2488280,1220132,Water & Fireworks Music / Coronation Anthems,-1,
+479269,Pražský komorní orchestr,2488280,1220132,Water & Fireworks Music / Coronation Anthems,417,EMI Classics
+120067,"Choir of King’s College, Cambridge",2488280,1220132,Water & Fireworks Music / Coronation Anthems,-1,
+120067,"Choir of King’s College, Cambridge",2488280,1220132,Water & Fireworks Music / Coronation Anthems,417,EMI Classics
+582404,Philip Ledger,2488280,1220132,Water & Fireworks Music / Coronation Anthems,-1,
+582404,Philip Ledger,2488280,1220132,Water & Fireworks Music / Coronation Anthems,417,EMI Classics
+345270,Sir David Willcocks,2488280,1220132,Water & Fireworks Music / Coronation Anthems,-1,
+345270,Sir David Willcocks,2488280,1220132,Water & Fireworks Music / Coronation Anthems,417,EMI Classics
+32736,Edward Elgar,2540662,2178864,"BBC Music, Volume 26, Number 9: Enigma Variations / Cockaigne Overture / Organ Sonata",52411,BBC Music Magazine
+124934,BBC Philharmonic,2540662,2178864,"BBC Music, Volume 26, Number 9: Enigma Variations / Cockaigne Overture / Organ Sonata",52411,BBC Music Magazine
+831634,BBC Concert Orchestra,2540662,2178864,"BBC Music, Volume 26, Number 9: Enigma Variations / Cockaigne Overture / Organ Sonata",52411,BBC Music Magazine
+940883,Juanjo Mena,2540662,2178864,"BBC Music, Volume 26, Number 9: Enigma Variations / Cockaigne Overture / Organ Sonata",52411,BBC Music Magazine
+254473,Vernon Handley,2540662,2178864,"BBC Music, Volume 26, Number 9: Enigma Variations / Cockaigne Overture / Organ Sonata",52411,BBC Music Magazine
+404594,Juan Crisóstomo de Arriaga,2719661,2397784,Arriaga: Symphony in D / Voříšek: Symphony in D,388,Hyperion
+376096,Jan Václav Hugo Voříšek,2719661,2397784,Arriaga: Symphony in D / Voříšek: Symphony in D,388,Hyperion
+253574,Scottish Chamber Orchestra,2719661,2397784,Arriaga: Symphony in D / Voříšek: Symphony in D,388,Hyperion
+46315,Giovanni Battista Pergolesi,2596360,1995000,Pergolesi: Stabat Mater / Scarlatti: Stabat Mater / 6 Concerti grossi,3152,Archiv Produktion
+53486,Alessandro Scarlatti,2596360,1995000,Pergolesi: Stabat Mater / Scarlatti: Stabat Mater / 6 Concerti grossi,3152,Archiv Produktion
+242219,Mirella Freni,2596360,1995000,Pergolesi: Stabat Mater / Scarlatti: Stabat Mater / 6 Concerti grossi,3152,Archiv Produktion
+107912,Teresa Berganza,2596360,1995000,Pergolesi: Stabat Mater / Scarlatti: Stabat Mater / 6 Concerti grossi,3152,Archiv Produktion
+747570,Ettore Gracis,2596360,1995000,Pergolesi: Stabat Mater / Scarlatti: Stabat Mater / 6 Concerti grossi,3152,Archiv Produktion
+323769,Engelbert Humperdinck,2605523,928133,Hansel and Gretel,1842,Chandos
+130808,Philharmonia Orchestra,2605523,928133,Hansel and Gretel,1842,Chandos
+483193,New London Children’s Choir,2605523,928133,Hansel and Gretel,1842,Chandos
+73502,George Frideric Handel,2718665,644207,Water Music,38982,Telarc Digital
+73502,George Frideric Handel,2718665,644207,Water Music,38982,Telarc Digital
+317643,Orchestra of St. Luke’s,2718665,644207,Water Music,38982,Telarc Digital
+317643,Orchestra of St. Luke’s,2718665,644207,Water Music,38982,Telarc Digital
+11285,Wolfgang Amadeus Mozart,2751216,404206,Idomeneo,417,EMI Classics
+348598,Ian Bostridge,2751216,404206,Idomeneo,417,EMI Classics
+438909,Lorraine Hunt Lieberson,2751216,404206,Idomeneo,417,EMI Classics
+945596,Lisa Milne,2751216,404206,Idomeneo,417,EMI Classics
+236805,Barbara Frittoli,2751216,404206,Idomeneo,417,EMI Classics
+458837,Anthony Rolfe Johnson,2751216,404206,Idomeneo,417,EMI Classics
+447002,Edinburgh Festival Chorus,2751216,404206,Idomeneo,417,EMI Classics
+253574,Scottish Chamber Orchestra,2751216,404206,Idomeneo,417,EMI Classics
+11285,Wolfgang Amadeus Mozart,2758361,2433560,Symphonies No. 36 & 38,38982,Telarc Digital
+479269,Pražský komorní orchestr,2758361,2433560,Symphonies No. 36 & 38,38982,Telarc Digital
+11285,Wolfgang Amadeus Mozart,2783657,2458084,Die Zauberflöte Highlights,38982,Telarc Digital
+50527,Barbara Hendricks,2783657,2458084,Die Zauberflöte Highlights,38982,Telarc Digital
+561846,June Anderson,2783657,2458084,Die Zauberflöte Highlights,38982,Telarc Digital
+125793,Ulrike Steinsky,2783657,2458084,Die Zauberflöte Highlights,38982,Telarc Digital
+235974,Jerry Hadley,2783657,2458084,Die Zauberflöte Highlights,38982,Telarc Digital
+274770,Robert Lloyd,2783657,2458084,Die Zauberflöte Highlights,38982,Telarc Digital
+278722,Sir Thomas Allen,2783657,2458084,Die Zauberflöte Highlights,38982,Telarc Digital
+476931,Gottfried Hornik,2783657,2458084,Die Zauberflöte Highlights,38982,Telarc Digital
+253574,Scottish Chamber Orchestra,2783657,2458084,Die Zauberflöte Highlights,38982,Telarc Digital
+918677,Scottish Chamber Chorus,2783657,2458084,Die Zauberflöte Highlights,38982,Telarc Digital
+87893,Henry Purcell,2879466,2435588,Ode on St. Cecilia's Day / The Married Beau,3152,Archiv Produktion
+5550,English Chamber Orchestra,2879466,2435588,Ode on St. Cecilia's Day / The Married Beau,3152,Archiv Produktion
+345480,Festival Strings Lucerne,2879466,2435588,Ode on St. Cecilia's Day / The Married Beau,3152,Archiv Produktion
+431503,Rudolf Baumgartner,2879466,2435588,Ode on St. Cecilia's Day / The Married Beau,3152,Archiv Produktion
+10729,Antonín Dvořák,2817978,2480313,"Silent Woods / Cello Concerto, op. 104 / Rondo",2712,RCA Victor
+46612,Ofra Harnoy,2817978,2480313,"Silent Woods / Cello Concerto, op. 104 / Rondo",2712,RCA Victor
+326720,Symfonický orchestr hlavního města Prahy FOK,2817978,2480313,"Silent Woods / Cello Concerto, op. 104 / Rondo",2712,RCA Victor
+427409,Havergal Brian,2818160,2478556,Symphony no. 7 / Symphony no. 31 / The Tinker's Wedding (Comedy Overture),973,EMI Digital
+391688,Royal Liverpool Philharmonic Orchestra,2818160,2478556,Symphony no. 7 / Symphony no. 31 / The Tinker's Wedding (Comedy Overture),973,EMI Digital
+11285,Wolfgang Amadeus Mozart,2822671,1307476,"Symphonies nos. 31 ""Paris"", 40 & 41 ""Jupiter""",21599,Classics for Pleasure
+71102,London Philharmonic Orchestra,2822671,1307476,"Symphonies nos. 31 ""Paris"", 40 & 41 ""Jupiter""",21599,Classics for Pleasure
+409745,Zdeněk Mácal,2822671,1307476,"Symphonies nos. 31 ""Paris"", 40 & 41 ""Jupiter""",21599,Classics for Pleasure
+45435,Leoš Janáček,2822672,2383210,Chamber Music / Orchestral Works,764,Decca Records
+347645,Paul Crossley,2822672,2383210,Chamber Music / Orchestral Works,764,Decca Records
+607828,Gabrieli String Quartet,2822672,2383210,Chamber Music / Orchestral Works,764,Decca Records
+161820,London Sinfonietta,2822672,2383210,Chamber Music / Orchestral Works,764,Decca Records
+437554,David Atherton,2822672,2383210,Chamber Music / Orchestral Works,764,Decca Records
+238351,Wiener Philharmoniker,2822672,2383210,Chamber Music / Orchestral Works,764,Decca Records
+317753,Riccardo Chailly,2822672,2383210,Chamber Music / Orchestral Works,764,Decca Records
+11285,Wolfgang Amadeus Mozart,2822673,2447740,Le Nozze di Figaro: Highlights,38982,Telarc Digital
+253574,Scottish Chamber Orchestra,2822673,2447740,Le Nozze di Figaro: Highlights,38982,Telarc Digital
+918677,Scottish Chamber Chorus,2822673,2447740,Le Nozze di Figaro: Highlights,38982,Telarc Digital
+45435,Leoš Janáček,2822674,2363386,Káťa Kabanová,36314,Decca Classics
+335605,Elisabeth Söderström,2822674,2363386,Káťa Kabanová,36314,Decca Classics
+274471,Peter Dvorský,2822674,2363386,Káťa Kabanová,36314,Decca Classics
+455655,Naděžda Kniplová,2822674,2363386,Káťa Kabanová,36314,Decca Classics
+238351,Wiener Philharmoniker,2822674,2363386,Káťa Kabanová,36314,Decca Classics
+122653,Пётр Ильич Чайковский,2822677,93233,Swan Lake / The Sleeping Beauty: Suites From the Ballets,2422,Telarc
+42495,Royal Philharmonic Orchestra,2822677,93233,Swan Lake / The Sleeping Beauty: Suites From the Ballets,2422,Telarc
+11285,Wolfgang Amadeus Mozart,2835982,2465158,"Symphonies No. 31, No. 33 & No. 34",38982,Telarc Digital
+11285,Wolfgang Amadeus Mozart,2835982,2466850,"Symphonies Nos. 8, 9, “44,” “47,” “45” & 11",38982,Telarc Digital
+11285,Wolfgang Amadeus Mozart,2835982,642133,"Symphonies No. 19, No. 20, No. 21, No. 22 & No. 23",38982,Telarc Digital
+11285,Wolfgang Amadeus Mozart,2835982,86032,"Symphonies No. 25, No. 28 & No. 29",38982,Telarc Digital
+11285,Wolfgang Amadeus Mozart,2835982,1257024,"Symphonies No. 32, No. 35 & No. 39",1906,Supraphon
+11285,Wolfgang Amadeus Mozart,2835982,1257024,"Symphonies No. 32, No. 35 & No. 39",38982,Telarc Digital
+11285,Wolfgang Amadeus Mozart,2835982,268952,Symphonies No. 40 & 41,38982,Telarc Digital
+11285,Wolfgang Amadeus Mozart,2835982,1057805,"Symphonies Nos. 10, “46,” “42,” 12 & 13",38982,Telarc Digital
+479269,Pražský komorní orchestr,2835982,2465158,"Symphonies No. 31, No. 33 & No. 34",38982,Telarc Digital
+479269,Pražský komorní orchestr,2835982,2466850,"Symphonies Nos. 8, 9, “44,” “47,” “45” & 11",38982,Telarc Digital
+479269,Pražský komorní orchestr,2835982,642133,"Symphonies No. 19, No. 20, No. 21, No. 22 & No. 23",38982,Telarc Digital
+479269,Pražský komorní orchestr,2835982,86032,"Symphonies No. 25, No. 28 & No. 29",38982,Telarc Digital
+479269,Pražský komorní orchestr,2835982,1257024,"Symphonies No. 32, No. 35 & No. 39",1906,Supraphon
+479269,Pražský komorní orchestr,2835982,1257024,"Symphonies No. 32, No. 35 & No. 39",38982,Telarc Digital
+479269,Pražský komorní orchestr,2835982,268952,Symphonies No. 40 & 41,38982,Telarc Digital
+479269,Pražský komorní orchestr,2835982,1057805,"Symphonies Nos. 10, “46,” “42,” 12 & 13",38982,Telarc Digital
+46261,Bohuslav Martinů,2988186,2668085,Martinů: Field Mass / Janacek: Cantata Amarus,1906,Supraphon
+45435,Leoš Janáček,2988186,2668085,Martinů: Field Mass / Janacek: Cantata Amarus,1906,Supraphon
+2157366,Květoslava Němečková,2988186,2668085,Martinů: Field Mass / Janacek: Cantata Amarus,1906,Supraphon
+1603032,Leo Marian Vodička,2988186,2668085,Martinů: Field Mass / Janacek: Cantata Amarus,1906,Supraphon
+443845,Václav Zítek,2988186,2668085,Martinů: Field Mass / Janacek: Cantata Amarus,1906,Supraphon
+290356,Česká filharmonie,2988186,2668085,Martinů: Field Mass / Janacek: Cantata Amarus,1906,Supraphon
+451249,Pražský filharmonický sbor,2988186,2668085,Martinů: Field Mass / Janacek: Cantata Amarus,1906,Supraphon
+46261,Bohuslav Martinů,2977868,2658896,Three fragments from the opera Juliette,1906,Supraphon
+290356,Česká filharmonie,2977868,2658896,Three fragments from the opera Juliette,1906,Supraphon
+58370,Magdalena Kožená,2977868,2658896,Three fragments from the opera Juliette,1906,Supraphon
+687531,Steve Davislim,2977868,2658896,Three fragments from the opera Juliette,1906,Supraphon
+23395,Игорь Фёдорович Стравинский,2982085,2662569,The Rite of Spring / Petrushka,18657,HMV Classics
+236231,Simon Rattle,2982085,2662569,The Rite of Spring / Petrushka,18657,HMV Classics
+11285,Wolfgang Amadeus Mozart,2908625,2583116,Mozart - The Great Operas,2422,Telarc
+11285,Wolfgang Amadeus Mozart,2908625,2583116,Mozart - The Great Operas,2422,Telarc
+11285,Wolfgang Amadeus Mozart,2908625,2583116,Mozart - The Great Operas,2422,Telarc
+11285,Wolfgang Amadeus Mozart,2908625,2583116,Mozart - The Great Operas,2422,Telarc
+11285,Wolfgang Amadeus Mozart,2908625,2583116,Mozart - The Great Operas,2422,Telarc
+11285,Wolfgang Amadeus Mozart,2908625,2583116,Mozart - The Great Operas,2422,Telarc
+253574,Scottish Chamber Orchestra,2908625,2583116,Mozart - The Great Operas,2422,Telarc
+253574,Scottish Chamber Orchestra,2908625,2583116,Mozart - The Great Operas,2422,Telarc
+253574,Scottish Chamber Orchestra,2908625,2583116,Mozart - The Great Operas,2422,Telarc
+253574,Scottish Chamber Orchestra,2908625,2583116,Mozart - The Great Operas,2422,Telarc
+253574,Scottish Chamber Orchestra,2908625,2583116,Mozart - The Great Operas,2422,Telarc
+253574,Scottish Chamber Orchestra,2908625,2583116,Mozart - The Great Operas,2422,Telarc
+73502,George Frideric Handel,2925814,2601395,Messiah,16197,Signum Classics
+11285,Wolfgang Amadeus Mozart,2925814,2601395,Messiah,16197,Signum Classics
+449146,Felicity Lott,2925814,2601395,Messiah,16197,Signum Classics
+451465,Felicity Palmer,2925814,2601395,Messiah,16197,Signum Classics
+491078,Philip Langridge,2925814,2601395,Messiah,16197,Signum Classics
+274770,Robert Lloyd,2925814,2601395,Messiah,16197,Signum Classics
+472446,Huddersfield Choral Society,2925814,2601395,Messiah,16197,Signum Classics
+42495,Royal Philharmonic Orchestra,2925814,2601395,Messiah,16197,Signum Classics
+479269,Pražský komorní orchestr,2939203,2616880,"""Haffner"" Serenade - Serenata notturna",1906,Supraphon
+938243,Oldřich Vlček,2939203,2616880,"""Haffner"" Serenade - Serenata notturna",1906,Supraphon
+224030,Arthur Sullivan,3025947,2700762,Sullivan Overtures & Choruses,36314,Decca Classics
+762003,Royston Nash,3025947,2700762,Sullivan Overtures & Choruses,36314,Decca Classics
+898923,Isidore Godfrey,3025947,2700762,Sullivan Overtures & Choruses,36314,Decca Classics
+389988,Sir Malcolm Sargent,3025947,2700762,Sullivan Overtures & Choruses,36314,Decca Classics
+737658,James Walker,3025947,2700762,Sullivan Overtures & Choruses,36314,Decca Classics
+15747,Richard Wagner,3038971,2711835,MSO Live,7405,ABC Classics
+171234,Frederick Delius,3038971,2711835,MSO Live,7405,ABC Classics
+32736,Edward Elgar,3038971,2711835,MSO Live,7405,ABC Classics
+139032,Melbourne Symphony Orchestra,3038971,2711835,MSO Live,7405,ABC Classics
+32512,Bedřich Smetana,3079212,1627307,Má vlast,1906,Supraphon
+290356,Česká filharmonie,3079212,1627307,Má vlast,1906,Supraphon

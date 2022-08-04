@@ -1,0 +1,80 @@
+id,name,credit,songid,song,labelid,label
+1021,Ludwig van Beethoven,1504871,1052360,Piano Concertos nos. 1 & 5,1724,naïve
+58373,François-Frédéric Guy,1504871,1052360,Piano Concertos nos. 1 & 5,1724,naïve
+340582,Orchestre philharmonique de Radio France,1504871,1052360,Piano Concertos nos. 1 & 5,1724,naïve
+12438,Franz Schubert,1680676,1674841,"Symphony no. 7 ""Unfinished"" / Symphony no. 8 ""The Great""",100891,Wiener Symphoniker
+12438,Franz Schubert,1680676,1674841,"Symphony no. 7 ""Unfinished"" / Symphony no. 8 ""The Great""",100891,Wiener Symphoniker
+85221,Wiener Symphoniker,1680676,1674841,"Symphony no. 7 ""Unfinished"" / Symphony no. 8 ""The Great""",100891,Wiener Symphoniker
+85221,Wiener Symphoniker,1680676,1674841,"Symphony no. 7 ""Unfinished"" / Symphony no. 8 ""The Great""",100891,Wiener Symphoniker
+218763,Wolfgang Rihm,1865922,1751324,Rihm: Gedicht des Malers / Dusapin: Aufgang / Mantovani: Jeux d'eau,1225,Erato
+218763,Wolfgang Rihm,1865922,1751324,Rihm: Gedicht des Malers / Dusapin: Aufgang / Mantovani: Jeux d'eau,1225,Erato
+270332,Pascal Dusapin,1865922,1751324,Rihm: Gedicht des Malers / Dusapin: Aufgang / Mantovani: Jeux d'eau,1225,Erato
+270332,Pascal Dusapin,1865922,1751324,Rihm: Gedicht des Malers / Dusapin: Aufgang / Mantovani: Jeux d'eau,1225,Erato
+633870,Bruno Mantovani,1865922,1751324,Rihm: Gedicht des Malers / Dusapin: Aufgang / Mantovani: Jeux d'eau,1225,Erato
+633870,Bruno Mantovani,1865922,1751324,Rihm: Gedicht des Malers / Dusapin: Aufgang / Mantovani: Jeux d'eau,1225,Erato
+529857,Renaud Capuçon,1865922,1751324,Rihm: Gedicht des Malers / Dusapin: Aufgang / Mantovani: Jeux d'eau,1225,Erato
+529857,Renaud Capuçon,1865922,1751324,Rihm: Gedicht des Malers / Dusapin: Aufgang / Mantovani: Jeux d'eau,1225,Erato
+256215,정명훈,1865922,1751324,Rihm: Gedicht des Malers / Dusapin: Aufgang / Mantovani: Jeux d'eau,1225,Erato
+256215,정명훈,1865922,1751324,Rihm: Gedicht des Malers / Dusapin: Aufgang / Mantovani: Jeux d'eau,1225,Erato
+10341,Claude Debussy,2054717,1845355,Debussy: Prélude à l’après-midi d’un faune / Stravinsky: Le Sacre du printemps / Ravel: Boléro,1724,naïve
+23395,Игорь Фёдорович Стравинский,2054717,1845355,Debussy: Prélude à l’après-midi d’un faune / Stravinsky: Le Sacre du printemps / Ravel: Boléro,1724,naïve
+10211,Maurice Ravel,2054717,1845355,Debussy: Prélude à l’après-midi d’un faune / Stravinsky: Le Sacre du printemps / Ravel: Boléro,1724,naïve
+561820,Orchestre de l’Opéra national de Paris,2054717,1845355,Debussy: Prélude à l’après-midi d’un faune / Stravinsky: Le Sacre du printemps / Ravel: Boléro,1724,naïve
+1021,Ludwig van Beethoven,2105792,1883672,Symphonies 1/3,100891,Wiener Symphoniker
+1021,Ludwig van Beethoven,2105792,1883672,Symphonies 1/3,100891,Wiener Symphoniker
+1021,Ludwig van Beethoven,2105792,1930162,Symphonies 4/5,100891,Wiener Symphoniker
+1021,Ludwig van Beethoven,2105792,1930162,Symphonies 4/5,100891,Wiener Symphoniker
+1021,Ludwig van Beethoven,2105792,2273124,Symphonies 6/8,100891,Wiener Symphoniker
+1021,Ludwig van Beethoven,2105792,2273124,Symphonies 6/8,100891,Wiener Symphoniker
+1021,Ludwig van Beethoven,2105792,2273127,Symphonies 2/7,100891,Wiener Symphoniker
+1021,Ludwig van Beethoven,2105792,2273127,Symphonies 2/7,100891,Wiener Symphoniker
+85221,Wiener Symphoniker,2105792,1883672,Symphonies 1/3,100891,Wiener Symphoniker
+85221,Wiener Symphoniker,2105792,1883672,Symphonies 1/3,100891,Wiener Symphoniker
+85221,Wiener Symphoniker,2105792,1930162,Symphonies 4/5,100891,Wiener Symphoniker
+85221,Wiener Symphoniker,2105792,1930162,Symphonies 4/5,100891,Wiener Symphoniker
+85221,Wiener Symphoniker,2105792,2273124,Symphonies 6/8,100891,Wiener Symphoniker
+85221,Wiener Symphoniker,2105792,2273124,Symphonies 6/8,100891,Wiener Symphoniker
+85221,Wiener Symphoniker,2105792,2273127,Symphonies 2/7,100891,Wiener Symphoniker
+85221,Wiener Symphoniker,2105792,2273127,Symphonies 2/7,100891,Wiener Symphoniker
+10211,Maurice Ravel,2433426,2172693,"Daphnis et Chloé, La valse",-1,
+561820,Orchestre de l’Opéra national de Paris,2433426,2172693,"Daphnis et Chloé, La valse",-1,
+1553467,Chœurs de l’Opéra national de Paris,2433426,2172693,"Daphnis et Chloé, La valse",-1,
+10211,Maurice Ravel,2976376,2657380,Daphnis & Chloé / La Valse,1225,Erato
+561820,Orchestre de l’Opéra national de Paris,2976376,2657380,Daphnis & Chloé / La Valse,1225,Erato
+1553467,Chœurs de l’Opéra national de Paris,2976376,2657380,Daphnis & Chloé / La Valse,1225,Erato
+1021,Ludwig van Beethoven,2559969,2273115,Symphonies: 9,100891,Wiener Symphoniker
+1021,Ludwig van Beethoven,2559969,2273115,Symphonies: 9,100891,Wiener Symphoniker
+1096594,Anja Kampe,2559969,2273115,Symphonies: 9,100891,Wiener Symphoniker
+1096594,Anja Kampe,2559969,2273115,Symphonies: 9,100891,Wiener Symphoniker
+1519867,Daniela Sindram,2559969,2273115,Symphonies: 9,100891,Wiener Symphoniker
+1519867,Daniela Sindram,2559969,2273115,Symphonies: 9,100891,Wiener Symphoniker
+1134407,Burkhard Fritz,2559969,2273115,Symphonies: 9,100891,Wiener Symphoniker
+1134407,Burkhard Fritz,2559969,2273115,Symphonies: 9,100891,Wiener Symphoniker
+444108,René Pape,2559969,2273115,Symphonies: 9,100891,Wiener Symphoniker
+444108,René Pape,2559969,2273115,Symphonies: 9,100891,Wiener Symphoniker
+254506,Wiener Singverein,2559969,2273115,Symphonies: 9,100891,Wiener Symphoniker
+254506,Wiener Singverein,2559969,2273115,Symphonies: 9,100891,Wiener Symphoniker
+85221,Wiener Symphoniker,2559969,2273115,Symphonies: 9,100891,Wiener Symphoniker
+85221,Wiener Symphoniker,2559969,2273115,Symphonies: 9,100891,Wiener Symphoniker
+46947,Hector Berlioz,2560035,2273163,Symphonie fantastique / Lélio,100891,Wiener Symphoniker
+46947,Hector Berlioz,2560035,2273163,Symphonie fantastique / Lélio,100891,Wiener Symphoniker
+1615652,Cyrille Dubois,2560035,2273163,Symphonie fantastique / Lélio,100891,Wiener Symphoniker
+1615652,Cyrille Dubois,2560035,2273163,Symphonie fantastique / Lélio,100891,Wiener Symphoniker
+1849848,Florian Sempey,2560035,2273163,Symphonie fantastique / Lélio,100891,Wiener Symphoniker
+1849848,Florian Sempey,2560035,2273163,Symphonie fantastique / Lélio,100891,Wiener Symphoniker
+451796,Jean‐Philippe Lafont,2560035,2273163,Symphonie fantastique / Lélio,100891,Wiener Symphoniker
+451796,Jean‐Philippe Lafont,2560035,2273163,Symphonie fantastique / Lélio,100891,Wiener Symphoniker
+254506,Wiener Singverein,2560035,2273163,Symphonie fantastique / Lélio,100891,Wiener Symphoniker
+254506,Wiener Singverein,2560035,2273163,Symphonie fantastique / Lélio,100891,Wiener Symphoniker
+85221,Wiener Symphoniker,2560035,2273163,Symphonie fantastique / Lélio,100891,Wiener Symphoniker
+85221,Wiener Symphoniker,2560035,2273163,Symphonie fantastique / Lélio,100891,Wiener Symphoniker
+34560,Модест Петрович Мусоргский,2748639,2424085,Mussorgsky: Pictures at an Exhibition / Prokofiev: Classical Symphony,1225,Erato
+34560,Модест Петрович Мусоргский,2748639,2424085,Mussorgsky: Pictures at an Exhibition / Prokofiev: Classical Symphony,1234,Warner Classics
+11697,Сергей Сергеевич Прокофьев,2748639,2424085,Mussorgsky: Pictures at an Exhibition / Prokofiev: Classical Symphony,1225,Erato
+11697,Сергей Сергеевич Прокофьев,2748639,2424085,Mussorgsky: Pictures at an Exhibition / Prokofiev: Classical Symphony,1234,Warner Classics
+561820,Orchestre de l’Opéra national de Paris,2748639,2424085,Mussorgsky: Pictures at an Exhibition / Prokofiev: Classical Symphony,1225,Erato
+561820,Orchestre de l’Opéra national de Paris,2748639,2424085,Mussorgsky: Pictures at an Exhibition / Prokofiev: Classical Symphony,1234,Warner Classics
+561820,Orchestre de l’Opéra national de Paris,2749110,2424484,Wagner: Der Ring Des Nibelungen - Symphonic Excerpts,133643,Warner Classics International
+1021,Ludwig van Beethoven,2913003,2587436,Piano Concertos Nos. 2 & 3,1724,naïve
+58373,François-Frédéric Guy,2913003,2587436,Piano Concertos Nos. 2 & 3,1724,naïve
+340582,Orchestre philharmonique de Radio France,2913003,2587436,Piano Concertos Nos. 2 & 3,1724,naïve
