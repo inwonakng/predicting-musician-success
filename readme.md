@@ -59,4 +59,17 @@ An example of the usage can be seen in [identify_top.ipynb](identify_top.ipynb).
 
 Bibtex Citation: 
 ```
+@article{kangAnalyzingPredictingSuccess2022,
+  title = {Analyzing and Predicting Success of Professional Musicians},
+  author = {Kang, Inwon and Mandulak, Michael and Szymanski, Boleslaw K.},
+  year = 2022,
+  journal = {Scientific Reports},
+  volume = {12},
+  number = {1},
+  pages = {21838},
+  publisher = {Nature Publishing Group},
+  issn = {2045-2322},
+  doi = {10.1038/s41598-022-25430-9},
+  copyright = {2022 The Author(s)}
+}
 ```
